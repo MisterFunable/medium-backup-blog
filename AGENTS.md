@@ -1,10 +1,10 @@
 ---
-description: Codified best practices for the Meshtastic blog archive static site.
+description: Codified best practices for the Mister Funable hobby log static site.
 globs: *
 alwaysApply: true
 ---
 
-name: "Meshtastic Knowledge Hub"
+name: "Mister Funable Field Notes"
 description: "Operational handbook for the static Tailwind site that ingests Medium exports and deploys on GitHub Pages."
 category: "Static Frontend"
 author: "GPT-5.1 Codex x Claude 4"
@@ -14,13 +14,13 @@ lastUpdated: "2025-11-27"
 
 ---
 
-# Meshtastic Blog Archive – Engineering Guide
+# Mister Funable Field Notes – Engineering Guide
 
 > Use this agent doc as the single source of truth for GPT-5.1 Codex and Claude 4 when collaborating on the project. Keep the rules lightweight but strict.
 
 ## 1. Project Fundamentals
 
-- **Goal**: Transform Markdown posts in `exports/medium_posts` into a responsive, SEO-friendly Tailwind site served via GitHub Pages (static hosting, no server runtime).
+- **Goal**: Transform Markdown posts in `exports/medium_posts` into a responsive, SEO-friendly Tailwind site served via GitHub Pages (static hosting, no server runtime). Content spans maker logs, photography experiments, Meshtastic builds, automation tinkering, and other Mister Funable hobbies.
 - **Inputs**: 
   - Markdown files: `exports/medium_posts/<NN - slug>.md`
   - Images: sibling folder `exports/medium_posts/images/<NN>/img-XX.<ext>`
@@ -55,7 +55,7 @@ lastUpdated: "2025-11-27"
 ## 3. Tailwind & Styling Guardrails
 
 - Enable **JIT** and `content: ["./src/**/*.{astro,tsx,ts,mdx}"]`.
-- Define theme tokens in `tailwind.config.mjs` for the lime/charcoal palette used in Meshtastic branding.
+- Define theme tokens in `tailwind.config.mjs` for the lime/charcoal palette used in Mister Funable branding (bright lime + midnight navy).
 - Use `@layer utilities` to register shared patterns like `.glass-card` or `.post-chip`.
 - Responsive flow: `mobile-first`, use `md` ≥ 768px and `lg` ≥ 1024px breakpoints.
 - Typography: Use Tailwind Typography plugin for Markdown rendering but override colors to respect the dark background (#0f172a / #05ff85 highlight).
