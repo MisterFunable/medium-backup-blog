@@ -4,19 +4,15 @@ import { formatDate } from '../utils/formatDate';
 
 interface Props {
   post: PostSummary;
-  featured?: boolean;
 }
 
 const base = import.meta.env.BASE_URL;
-const { post, featured = false } = Astro.props;
+const { post } = Astro.props;
 const dateLabel = formatDate(post.publishedAt);
 const readingLabel = `${post.readingTime} min read`;
-const layoutClasses = featured
-  ? 'grid grid-cols-1 gap-6 p-8 lg:grid-cols-[3fr_2fr]'
-  : 'flex flex-col p-6';
 ---
 
-<article class={`post-card glass-card ${layoutClasses}`}>
+<article class="post-card glass-card flex flex-col p-6">
   <a
     class="post-card__overlay"
     href={`${base}posts/${post.permalink}`}
@@ -46,13 +42,28 @@ const layoutClasses = featured
       />
     </svg>
   </a>
-  <div class={`space-y-4 ${featured ? 'order-2 lg:order-1' : ''}`}>
+  <div>
+    {post.heroImage ? (
+      <img
+        src={post.heroImage}
+        alt={post.title}
+        loading="lazy"
+        decoding="async"
+        class="h-full w-full rounded-2xl object-cover max-h-60"
+      />
+    ) : (
+      <div class="flex h-full min-h-[240px] w-full items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-400/30 to-indigo-500/20">
+        <span class="text-sm uppercase tracking-[0.3em] text-white/70">Mister Funable</span>
+      </div>
+    )}
+  </div>
+  <div class="mt-4 space-y-3">
     <div class="flex flex-wrap items-center gap-3 text-xs uppercase tracking-[0.2em] text-lime-200/80">
       <span>{dateLabel}</span>
-      <span class="text-slate-500">•</span>
+      <span class="text-slate-500">&bull;</span>
       <span>{readingLabel}</span>
     </div>
-    <h3 class={`font-semibold text-white ${featured ? 'text-3xl' : 'text-2xl'}`}>
+    <h3 class="text-2xl font-semibold text-white">
       <a
         class="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-lime-300"
         href={`${base}posts/${post.permalink}`}
@@ -64,23 +75,4 @@ const layoutClasses = featured
       {post.description}
     </p>
   </div>
-  <div class={`${featured ? 'order-1 lg:order-2' : ''}`}>
-    {post.heroImage ? (
-      <img
-        src={post.heroImage}
-        alt={post.title}
-        loading="lazy"
-        decoding="async"
-        class={`h-full w-full rounded-2xl object-cover ${featured ? 'max-h-[320px]' : 'max-h-60'}`}
-      />
-    ) : (
-      <div class="flex h-full min-h-[240px] w-full items-center justify-center rounded-2xl bg-gradient-to-br from-emerald-400/30 to-indigo-500/20">
-        <span class="text-sm uppercase tracking-[0.3em] text-white/70">Mister Funable</span>
-      </div>
-    )}
-  </div>
-  <div class="read-indicator" aria-hidden="true">
-    <span data-text="READ POST">READ POST</span>
-  </div>
 </article>
-

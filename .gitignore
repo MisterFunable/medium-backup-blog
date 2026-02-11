@@ -1,0 +1,6 @@
+# Screenshots (Playwright MCP captures)
+current-*.png
+page-*.png
+
+# Playwright MCP
+.playwright-mcp/

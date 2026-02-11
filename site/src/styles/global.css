@@ -80,27 +80,11 @@
     position: relative;
     overflow: hidden;
     border: 1px solid rgba(255, 255, 255, 0.1);
-    transition: border-color 200ms ease, box-shadow 200ms ease, transform 200ms ease;
+    transition: border-color 200ms ease;
   }
 
   .post-card:hover {
     border-color: rgba(5, 255, 133, 0.5);
-    box-shadow: 0 20px 45px rgba(5, 255, 133, 0.15);
-    transform: translateY(-2px);
-  }
-
-  .post-card::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: radial-gradient(circle at top, rgba(5, 255, 133, 0.15), transparent 60%);
-    opacity: 0;
-    transition: opacity 200ms ease;
-    pointer-events: none;
-  }
-
-  .post-card:hover::after {
-    opacity: 1;
   }
 
   .post-card__overlay {
@@ -129,72 +113,20 @@
     background: rgba(3, 7, 18, 0.7);
     color: #a3ffce;
     border: 1px solid rgba(255, 255, 255, 0.2);
-    transition: transform 200ms ease, color 200ms ease, border-color 200ms ease;
+    transition: color 200ms ease, border-color 200ms ease;
   }
 
   .medium-link:hover {
     color: #05ff85;
     border-color: #05ff85;
-    transform: scale(1.05);
   }
+}
 
-  .read-indicator {
-    position: absolute;
-    left: 50%;
-    bottom: 0.05rem;
-    transform: translate(-50%, 8px);
-    z-index: 6;
-    pointer-events: none;
-  }
-
-  .read-indicator span {
-    display: inline-block;
-    font-size: 0.7rem;
-    letter-spacing: 0.6em;
-    text-transform: uppercase;
-    color: rgba(163, 255, 206, 0.35);
-    font-weight: 600;
-    opacity: 0;
-    transition: opacity 350ms ease, transform 350ms ease;
-  }
-
-  .post-card:hover .read-indicator {
-    transform: translate(-50%, 0);
-  }
-
-  .post-card:hover .read-indicator span {
-    opacity: 1;
-    animation: ticker 0.9s steps(8) forwards;
-    color: #a3ffce;
-  }
-
-  .post-card:not(:hover) .read-indicator span {
-    animation: ticker-out 0.6s ease forwards;
-  }
-
-  @keyframes ticker {
-    0% {
-      letter-spacing: 0.9em;
-      opacity: 0;
-    }
-    60% {
-      letter-spacing: 0.2em;
-      opacity: 0.8;
-    }
-    100% {
-      letter-spacing: 0.4em;
-      opacity: 1;
-    }
-  }
-
-  @keyframes ticker-out {
-    0% {
-      letter-spacing: 0.4em;
-      opacity: 1;
-    }
-    100% {
-      letter-spacing: 0.8em;
-      opacity: 0;
-    }
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
   }
 }
