@@ -5,7 +5,7 @@ permalink: "marvel-champions-resources"
 order: 16
 publishedAt: "2025-12-21T22:57:54.000Z"
 readingTime: 2
-heroImage: "/medium-assets/16/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/16/img-01.png"
 sourceUrl: "https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7"
 ---
 <!-- Source: https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7"
 
 I already have my own page where I dump links and notes, but I wanted something simpler I can share with friends who are just getting into the game. So here you go.
 
-<!-- Image Source: https://miro.medium.com/1*zkgfdm3t1bqVfSwf1W35kw.png | Local: /medium-assets/16/img-01.png -->
-![](/medium-assets/16/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*zkgfdm3t1bqVfSwf1W35kw.png | Local: /medium-backup-blog/medium-assets/16/img-01.png -->
+![](/medium-backup-blog/medium-assets/16/img-01.png)
 
 At first, I didn't have much hope for _**Marvel Champions**_. I thought it was going to be another "same rules, different hero skin" situation.
 
@@ -35,13 +35,13 @@ Overview (what these links help with):
 
 ## Marvel Champions Resources (Links for the Uninitiated)
 
-<!-- Image Source: https://miro.medium.com/0*k-TwPZUXPEKKadsp | Local: /medium-assets/16/img-02.png -->
-![](/medium-assets/16/img-02.png)
+<!-- Image Source: https://miro.medium.com/0*k-TwPZUXPEKKadsp | Local: /medium-backup-blog/medium-assets/16/img-02.png -->
+![](/medium-backup-blog/medium-assets/16/img-02.png)
 
 ### Hall of Heroes
 
-<!-- Image Source: https://miro.medium.com/1*nH03HwDxvigyVo08aZ4JUg.png | Local: /medium-assets/16/img-03.png -->
-![](/medium-assets/16/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*nH03HwDxvigyVo08aZ4JUg.png | Local: /medium-backup-blog/medium-assets/16/img-03.png -->
+![](/medium-backup-blog/medium-assets/16/img-03.png)
 
 Most of what you'll be looking for can be found on **[Hall of Heroes](https://hallofheroeslcg.com/).** Things like news, releases, card info, and a bunch of community-friendly resources.
 
@@ -57,8 +57,8 @@ You can go from there and find more, like Discords and Subreddits.
 
 ### Player Resources / Aid (Quick Reference)
 
-<!-- Image Source: https://miro.medium.com/0*XLHJvahdoLmKVwtv.png | Local: /medium-assets/16/img-04.png -->
-![](/medium-assets/16/img-04.png)
+<!-- Image Source: https://miro.medium.com/0*XLHJvahdoLmKVwtv.png | Local: /medium-backup-blog/medium-assets/16/img-04.png -->
+![](/medium-backup-blog/medium-assets/16/img-04.png)
 
 So this section became a dedicated post ([BoardGameGeek Player Resources / Aids](https://medium.com/@mister.funable/boardgamegeek-player-resources-aids-b0a37d238455?postPublishedType=initial)). You can download it from [here](https://boardgamegeek.com/filepage/253921/mc-player-aid).
 
@@ -70,8 +70,8 @@ As an extra, here is the link to the [BGG Community Wiki](https://boardgamegeek.
 
 ### Cards and Decks
 
-<!-- Image Source: https://miro.medium.com/1*F7FUc2vjoljIPCP3m7QRjg.png | Local: /medium-assets/16/img-05.png -->
-![](/medium-assets/16/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*F7FUc2vjoljIPCP3m7QRjg.png | Local: /medium-backup-blog/medium-assets/16/img-05.png -->
+![](/medium-backup-blog/medium-assets/16/img-05.png)
 
 - **[MarvelCDB (Deck Builder + Deck Lists)](https://marvelcdb.com/)**: build decks, find prebuilt community decks, and check notes/clarifications people add for specific cards.
 

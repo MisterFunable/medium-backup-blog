@@ -5,7 +5,7 @@ permalink: "figma-body-alternatives-from-archetypes-to-art"
 order: 10
 publishedAt: "2025-11-20T03:02:07.000Z"
 readingTime: 6
-heroImage: "/medium-assets/10/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/10/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b"
 ---
 <!-- Source: https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b -->
@@ -41,8 +41,8 @@ What brand were those? That question stayed in the back of my head for a few yea
 
 In hindsight, I could have just clicked the associated products to see what they were. I probably overlooked this since some brands, especially the less official ones, aren't always in the database. But it turns out they were.
 
-<!-- Image Source: https://miro.medium.com/1*SgqqEVxVhDb-QyOzUaA_uQ.png | Local: /medium-assets/10/img-01.png -->
-![After extensive... research...](/medium-assets/10/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*SgqqEVxVhDb-QyOzUaA_uQ.png | Local: /medium-backup-blog/medium-assets/10/img-01.png -->
+![After extensive... research...](/medium-backup-blog/medium-assets/10/img-01.png)
 
 So why did it take me so long to continue my search? I diverted my attention to other figures and then discovered the **S-Style** line from **FREEing**. Thanks to this picture if my memory serves:
 
@@ -53,20 +53,20 @@ Something more "official", 100% compatible with Figma body, and no articulations
 
 I currently own over 160+ Figma figures ([check me on MFC](https://myfigurecollection.net/profile/MisterFunable)), so I think I'm relatively qualified to talk about this topic.
 
-<!-- Image Source: https://miro.medium.com/1*eV17_baTxsWpNbJpBXSkIQ.png | Local: /medium-assets/10/img-02.png -->
-![](/medium-assets/10/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*eV17_baTxsWpNbJpBXSkIQ.png | Local: /medium-backup-blog/medium-assets/10/img-02.png -->
+![](/medium-backup-blog/medium-assets/10/img-02.png)
 
-<!-- Image Source: https://miro.medium.com/1*cH7b1c03iE5jvH10Q8M6bg.png | Local: /medium-assets/10/img-03.png -->
-![](/medium-assets/10/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*cH7b1c03iE5jvH10Q8M6bg.png | Local: /medium-backup-blog/medium-assets/10/img-03.png -->
+![](/medium-backup-blog/medium-assets/10/img-03.png)
 
-<!-- Image Source: https://miro.medium.com/1*dOzKMaQiPSM4UP3lAcyVwQ.png | Local: /medium-assets/10/img-04.png -->
-![](/medium-assets/10/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*dOzKMaQiPSM4UP3lAcyVwQ.png | Local: /medium-backup-blog/medium-assets/10/img-04.png -->
+![](/medium-backup-blog/medium-assets/10/img-04.png)
 
-<!-- Image Source: https://miro.medium.com/1*uaVTBQiOFj2vcwZgHWqVTg.png | Local: /medium-assets/10/img-05.png -->
-![](/medium-assets/10/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*uaVTBQiOFj2vcwZgHWqVTg.png | Local: /medium-backup-blog/medium-assets/10/img-05.png -->
+![](/medium-backup-blog/medium-assets/10/img-05.png)
 
-<!-- Image Source: https://miro.medium.com/1*OnBFcx3qq1_fn0QYD5EHhA.png | Local: /medium-assets/10/img-06.png -->
-![**I reject my humanity, JOJO!**](/medium-assets/10/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*OnBFcx3qq1_fn0QYD5EHhA.png | Local: /medium-backup-blog/medium-assets/10/img-06.png -->
+![**I reject my humanity, JOJO!**](/medium-backup-blog/medium-assets/10/img-06.png)
 
 ---
 
@@ -90,8 +90,8 @@ Bodies can range from $20 to $100 USD (and even more), depending on the product 
 
 I made a video about ["How to Buy Anime Figures](https://youtu.be/D4Pi0PO7iio?si=eXdshe5s50YVQhcV)" (in Spanish), one takeaway is you can use [BuyFinder](https://buyfinder.moe/) to search products by name, JAN, or MFC link ([example](https://myfigurecollection.net/item/118087)).
 
-<!-- Image Source: https://buyfinder.moe/figure/actiondolls-figma-01-figma-archetype-she-flesh-color-ver-max-factory | Local: /medium-assets/10/img-07.html -->
-![[Source](/medium-assets/10/img-07.html)](https://miro.medium.com/1*fJvh5fm39SHb5O5hnOu1dw.png)
+<!-- Image Source: https://buyfinder.moe/figure/actiondolls-figma-01-figma-archetype-she-flesh-color-ver-max-factory | Local: /medium-backup-blog/medium-assets/10/img-07.html -->
+![[Source](/medium-backup-blog/medium-assets/10/img-07.html)](https://miro.medium.com/1*fJvh5fm39SHb5O5hnOu1dw.png)
 
 It checks 54 stores and shows original vs. current prices. Not something you'll use daily, but it prevents overpaying for some items.
 
@@ -107,41 +107,41 @@ We're skipping seamless doll bodies because that's a whole other thing.
 
 ### Figma Styles
 
-<!-- Image Source: https://miro.medium.com/1*kzFZrxcIR-q9vBuOahcxWA.png | Local: /medium-assets/10/img-08.png -->
-![](/medium-assets/10/img-08.png)
+<!-- Image Source: https://miro.medium.com/1*kzFZrxcIR-q9vBuOahcxWA.png | Local: /medium-backup-blog/medium-assets/10/img-08.png -->
+![](/medium-backup-blog/medium-assets/10/img-08.png)
 
 This [line](https://myfigurecollection.net/entry/187815) is two in one, a figure with clothes and sometimes accessories.
 
 **Examples**: [Bikini Armor](https://myfigurecollection.net/item/806178), [Bride](https://myfigurecollection.net/item/795780) and [Sukeban](https://myfigurecollection.net/item/1131885).
 
-<!-- Image Source: https://miro.medium.com/1*kIbZTyKNPZhBzn_vYMZMdg.png | Local: /medium-assets/10/img-09.png -->
-![](/medium-assets/10/img-09.png)
+<!-- Image Source: https://miro.medium.com/1*kIbZTyKNPZhBzn_vYMZMdg.png | Local: /medium-backup-blog/medium-assets/10/img-09.png -->
+![](/medium-backup-blog/medium-assets/10/img-09.png)
 
-<!-- Image Source: https://miro.medium.com/1*Cxuj3fAGxpBlfTEYHLlskg.png | Local: /medium-assets/10/img-10.png -->
-![](/medium-assets/10/img-10.png)
+<!-- Image Source: https://miro.medium.com/1*Cxuj3fAGxpBlfTEYHLlskg.png | Local: /medium-backup-blog/medium-assets/10/img-10.png -->
+![](/medium-backup-blog/medium-assets/10/img-10.png)
 
-<!-- Image Source: https://miro.medium.com/1*HJ5tlEpLTqL2d2CTNvLf5A.png | Local: /medium-assets/10/img-11.png -->
-![](/medium-assets/10/img-11.png)
+<!-- Image Source: https://miro.medium.com/1*HJ5tlEpLTqL2d2CTNvLf5A.png | Local: /medium-backup-blog/medium-assets/10/img-11.png -->
+![](/medium-backup-blog/medium-assets/10/img-11.png)
 
 ---
 
 ### Archetype and Archetype Next: She
 
-<!-- Image Source: https://miro.medium.com/1*QnRd7ZxPdbCZepJX9gwy2w.png | Local: /medium-assets/10/img-12.png -->
-![](/medium-assets/10/img-12.png)
+<!-- Image Source: https://miro.medium.com/1*QnRd7ZxPdbCZepJX9gwy2w.png | Local: /medium-backup-blog/medium-assets/10/img-12.png -->
+![](/medium-backup-blog/medium-assets/10/img-12.png)
 
 This [line](https://myfigurecollection.net/?keywords=figma+she&_tb=item) is what you should look for in base bodies, even though they don't have anatomical details. I personally prefer these for displaying weapons.
 
 There are two sizes: [#01♀](https://myfigurecollection.net/item/118087), [#02♀](https://myfigurecollection.net/item/166981), and then color/transparent version called [#02♀ Next](https://myfigurecollection.net/item/166981)
 
-<!-- Image Source: https://miro.medium.com/1*Qo-4f7JTU7GaAhR9JNamLg.png | Local: /medium-assets/10/img-13.png -->
-![](/medium-assets/10/img-13.png)
+<!-- Image Source: https://miro.medium.com/1*Qo-4f7JTU7GaAhR9JNamLg.png | Local: /medium-backup-blog/medium-assets/10/img-13.png -->
+![](/medium-backup-blog/medium-assets/10/img-13.png)
 
-<!-- Image Source: https://miro.medium.com/1*-HJ4gwEwpTvU8LEp1wFTwg.png | Local: /medium-assets/10/img-14.png -->
-![](/medium-assets/10/img-14.png)
+<!-- Image Source: https://miro.medium.com/1*-HJ4gwEwpTvU8LEp1wFTwg.png | Local: /medium-backup-blog/medium-assets/10/img-14.png -->
+![](/medium-backup-blog/medium-assets/10/img-14.png)
 
-<!-- Image Source: https://miro.medium.com/1*NeY6LnlpEOlf6smuyexP-g.png | Local: /medium-assets/10/img-15.png -->
-![](/medium-assets/10/img-15.png)
+<!-- Image Source: https://miro.medium.com/1*NeY6LnlpEOlf6smuyexP-g.png | Local: /medium-backup-blog/medium-assets/10/img-15.png -->
+![](/medium-backup-blog/medium-assets/10/img-15.png)
 
 The size range isn't great, you get either #01♀ (smaller, anime proportions) or #02♀ (taller, realistic proportions). Nothing in between or above.
 
@@ -153,8 +153,8 @@ Now that I recall, [Mio (XC3)](https://myfigurecollection.net/item/1618550) was 
 
 As with any bootleg/Knockoff, expect mold lines, less overall quality and some articulation issues. Good enough to experiment with.
 
-<!-- Image Source: https://onesixthfigures.forumotion.com/t1336-figma-he-and-she-next-archetypes-bootleg-knockoff | Local: /medium-assets/10/img-16.html -->
-![From "[Figma He and She Next Archetypes (Bootleg/Knockoff)](/medium-assets/10/img-16.html)" post](https://miro.medium.com/0*9BeP5NlcSyUFo6Ca.jpg)
+<!-- Image Source: https://onesixthfigures.forumotion.com/t1336-figma-he-and-she-next-archetypes-bootleg-knockoff | Local: /medium-backup-blog/medium-assets/10/img-16.html -->
+![From "[Figma He and She Next Archetypes (Bootleg/Knockoff)](/medium-backup-blog/medium-assets/10/img-16.html)" post](https://miro.medium.com/0*9BeP5NlcSyUFo6Ca.jpg)
 
 ---
 
@@ -164,14 +164,14 @@ These don't work with Figmas. They use ball-joint neck connections designed for 
 
 You'd need poster putty to make it work. Bad value too at $15, you're only saving $5 compared to a 1/6 scale body that's twice the size.
 
-<!-- Image Source: https://miro.medium.com/1*ZgP7EXpvBLylKASSTeFNbA.png | Local: /medium-assets/10/img-17.png -->
-![](/medium-assets/10/img-17.png)
+<!-- Image Source: https://miro.medium.com/1*ZgP7EXpvBLylKASSTeFNbA.png | Local: /medium-backup-blog/medium-assets/10/img-17.png -->
+![](/medium-backup-blog/medium-assets/10/img-17.png)
 
-<!-- Image Source: https://miro.medium.com/1*NM5LFzVg1x0X5QRNF624ow.png | Local: /medium-assets/10/img-18.png -->
-![](/medium-assets/10/img-18.png)
+<!-- Image Source: https://miro.medium.com/1*NM5LFzVg1x0X5QRNF624ow.png | Local: /medium-backup-blog/medium-assets/10/img-18.png -->
+![](/medium-backup-blog/medium-assets/10/img-18.png)
 
-<!-- Image Source: https://miro.medium.com/1*RSK-y09ZB5XQlkplE3qWZA.png | Local: /medium-assets/10/img-19.png -->
-![](/medium-assets/10/img-19.png)
+<!-- Image Source: https://miro.medium.com/1*RSK-y09ZB5XQlkplE3qWZA.png | Local: /medium-backup-blog/medium-assets/10/img-19.png -->
+![](/medium-backup-blog/medium-assets/10/img-19.png)
 
 ---
 
@@ -181,8 +181,8 @@ You'd need poster putty to make it work. Bad value too at $15, you're only savin
 
 ### The New Discovery: Premium Parts Collection
 
-<!-- Image Source: https://miro.medium.com/1*jQR5OZJRUU0gN4f12lcFxg.png | Local: /medium-assets/10/img-20.png -->
-![](/medium-assets/10/img-20.png)
+<!-- Image Source: https://miro.medium.com/1*jQR5OZJRUU0gN4f12lcFxg.png | Local: /medium-backup-blog/medium-assets/10/img-20.png -->
+![](/medium-backup-blog/medium-assets/10/img-20.png)
 
 This [line](https://myfigurecollection.net/?current=title&title=PPC&rootId=0&orEntries%5B%5D=10211&_tb=item&mode=browse&tab=search&output=2&sort=insert&order=desc&year=2025&month=11&domainId=-1) (From [Hobby Base](https://myfigurecollection.net/entry/10211)) offers three body sizes: S (small), M (medium), and L (relatively tall). Last release was in 2022, so hopefully more are coming.
 
@@ -190,11 +190,11 @@ A friend shared this line with me which kickstarted my search for bodies with...
 
 Going back to the body, there are three body types, **S**, **M** and **L**:
 
-<!-- Image Source: https://miro.medium.com/1*nd3XdEvXIzrc6IhCXX7mbw.png | Local: /medium-assets/10/img-21.png -->
-![](/medium-assets/10/img-21.png)
+<!-- Image Source: https://miro.medium.com/1*nd3XdEvXIzrc6IhCXX7mbw.png | Local: /medium-backup-blog/medium-assets/10/img-21.png -->
+![](/medium-backup-blog/medium-assets/10/img-21.png)
 
-<!-- Image Source: https://miro.medium.com/1*ExGYL2-x6-TIEMsNWznT7g.png | Local: /medium-assets/10/img-22.png -->
-![](/medium-assets/10/img-22.png)
+<!-- Image Source: https://miro.medium.com/1*ExGYL2-x6-TIEMsNWznT7g.png | Local: /medium-backup-blog/medium-assets/10/img-22.png -->
+![](/medium-backup-blog/medium-assets/10/img-22.png)
 
 Checkout this [fantastic blog](http://blog.livedoor.jp/nobuno88/) covering them:
 
@@ -202,24 +202,24 @@ Checkout this [fantastic blog](http://blog.livedoor.jp/nobuno88/) covering them:
 
 2. [Review Hobby Base 1/12 Material-chan Fresh/Light Fresh](http://blog.livedoor.jp/nobuno88/archives/1077134148.html)
 
-<!-- Image Source: http://blog.livedoor.jp/nobuno88/archives/1077982375.html | Local: /medium-assets/10/img-23.html -->
-![[Pic](/medium-assets/10/img-23.html) by Nobuno88](https://miro.medium.com/1*97YIeJRvurigMyLMGqHs-Q.png)
+<!-- Image Source: http://blog.livedoor.jp/nobuno88/archives/1077982375.html | Local: /medium-backup-blog/medium-assets/10/img-23.html -->
+![[Pic](/medium-backup-blog/medium-assets/10/img-23.html) by Nobuno88](https://miro.medium.com/1*97YIeJRvurigMyLMGqHs-Q.png)
 
-<!-- Image Source: https://miro.medium.com/1*wOUGX9PmNuBfdy6v55uvqQ.png | Local: /medium-assets/10/img-24.png -->
-![](/medium-assets/10/img-24.png)
+<!-- Image Source: https://miro.medium.com/1*wOUGX9PmNuBfdy6v55uvqQ.png | Local: /medium-backup-blog/medium-assets/10/img-24.png -->
+![](/medium-backup-blog/medium-assets/10/img-24.png)
 
-<!-- Image Source: https://miro.medium.com/1*tXAM4_kZPcGNhWD2xOh3Dw.png | Local: /medium-assets/10/img-25.png -->
-![](/medium-assets/10/img-25.png)
+<!-- Image Source: https://miro.medium.com/1*tXAM4_kZPcGNhWD2xOh3Dw.png | Local: /medium-backup-blog/medium-assets/10/img-25.png -->
+![](/medium-backup-blog/medium-assets/10/img-25.png)
 
-<!-- Image Source: http://blog.livedoor.jp/nobuno88/archives/1077982375.html | Local: /medium-assets/10/img-23.html -->
-![From "[Review Hobby Base 1/12 Material-chan S Light Fresh](/medium-assets/10/img-23.html)" post](https://miro.medium.com/1*fWYU1Ne_VDp64OEp98NBDA.png)
+<!-- Image Source: http://blog.livedoor.jp/nobuno88/archives/1077982375.html | Local: /medium-backup-blog/medium-assets/10/img-23.html -->
+![From "[Review Hobby Base 1/12 Material-chan S Light Fresh](/medium-backup-blog/medium-assets/10/img-23.html)" post](https://miro.medium.com/1*fWYU1Ne_VDp64OEp98NBDA.png)
 
 ## Fixed Bodies
 
 ### S-Style
 
-<!-- Image Source: https://miro.medium.com/1*VDCqrCRE5Zf6v-WOs0fS4w.png | Local: /medium-assets/10/img-26.png -->
-![](/medium-assets/10/img-26.png)
+<!-- Image Source: https://miro.medium.com/1*VDCqrCRE5Zf6v-WOs0fS4w.png | Local: /medium-backup-blog/medium-assets/10/img-26.png -->
+![](/medium-backup-blog/medium-assets/10/img-26.png)
 
 This [line](https://myfigurecollection.net/entry/95891) is a variant from the [Figma x Fixed x Figure (FigFix)](https://myfigurecollection.net/entry/69140) line but produced by [FREEing](https://myfigurecollection.net/entry/7633) that also produces other lines like [B-Style](https://myfigurecollection.net/entry/99284) and [Y-Style](https://myfigurecollection.net/entry/99283). Same size as Figmas, but more akin to statues. That's where the "fix" comes from, lol.
 
@@ -229,19 +229,19 @@ The problem? Prices are inconsistent and can get ridiculous. Some characters cos
 
 **Examples**: [Akane](https://myfigurecollection.net/item/958722), [Hinatsuru Ai](https://myfigurecollection.net/item/806278), [QBZ-95](https://myfigurecollection.net/item/740095)
 
-<!-- Image Source: https://miro.medium.com/1*dtfLrVMCnEWCvZFVrH5iBA.png | Local: /medium-assets/10/img-27.png -->
-![](/medium-assets/10/img-27.png)
+<!-- Image Source: https://miro.medium.com/1*dtfLrVMCnEWCvZFVrH5iBA.png | Local: /medium-backup-blog/medium-assets/10/img-27.png -->
+![](/medium-backup-blog/medium-assets/10/img-27.png)
 
-<!-- Image Source: https://miro.medium.com/1*6SrZVxb1iBAxLbRaYq2DZg.png | Local: /medium-assets/10/img-28.png -->
-![](/medium-assets/10/img-28.png)
+<!-- Image Source: https://miro.medium.com/1*6SrZVxb1iBAxLbRaYq2DZg.png | Local: /medium-backup-blog/medium-assets/10/img-28.png -->
+![](/medium-backup-blog/medium-assets/10/img-28.png)
 
-<!-- Image Source: https://miro.medium.com/1*nQPlfrknOm8Y-pbSw2YEjQ.png | Local: /medium-assets/10/img-29.png -->
-![](/medium-assets/10/img-29.png)
+<!-- Image Source: https://miro.medium.com/1*nQPlfrknOm8Y-pbSw2YEjQ.png | Local: /medium-backup-blog/medium-assets/10/img-29.png -->
+![](/medium-backup-blog/medium-assets/10/img-29.png)
 
 ### 1/12 Ero Sotai Body
 
-<!-- Image Source: https://miro.medium.com/1*9rTArai3J_h7-zgotto_mg.png | Local: /medium-assets/10/img-30.png -->
-![](/medium-assets/10/img-30.png)
+<!-- Image Source: https://miro.medium.com/1*9rTArai3J_h7-zgotto_mg.png | Local: /medium-backup-blog/medium-assets/10/img-30.png -->
+![](/medium-backup-blog/medium-assets/10/img-30.png)
 
 This [line](https://myfigurecollection.net/entry/138987) is what I was originally searching for. Like **S-Style** but without the **S**.
 
@@ -249,14 +249,14 @@ These are garage kits, so expect mold lines and some assembly required. For what
 
 **Examples**: [Tachi Hiza](https://myfigurecollection.net/item/630252), [Taiki Chuugoshii](https://myfigurecollection.net/item/630263), [Yuuwaku Sokugai](https://myfigurecollection.net/item/630262)
 
-<!-- Image Source: https://miro.medium.com/1*1gdl_cPhguwf0W4kUK8ugA.png | Local: /medium-assets/10/img-31.png -->
-![](/medium-assets/10/img-31.png)
+<!-- Image Source: https://miro.medium.com/1*1gdl_cPhguwf0W4kUK8ugA.png | Local: /medium-backup-blog/medium-assets/10/img-31.png -->
+![](/medium-backup-blog/medium-assets/10/img-31.png)
 
-<!-- Image Source: https://miro.medium.com/1*W3COHc62gA_sX2LAm2z2GA.png | Local: /medium-assets/10/img-32.png -->
-![](/medium-assets/10/img-32.png)
+<!-- Image Source: https://miro.medium.com/1*W3COHc62gA_sX2LAm2z2GA.png | Local: /medium-backup-blog/medium-assets/10/img-32.png -->
+![](/medium-backup-blog/medium-assets/10/img-32.png)
 
-<!-- Image Source: https://miro.medium.com/1*p7bi1LaS9_csliOHeL920g.png | Local: /medium-assets/10/img-33.png -->
-![](/medium-assets/10/img-33.png)
+<!-- Image Source: https://miro.medium.com/1*p7bi1LaS9_csliOHeL920g.png | Local: /medium-backup-blog/medium-assets/10/img-33.png -->
+![](/medium-backup-blog/medium-assets/10/img-33.png)
 
 ---
 
@@ -273,8 +273,8 @@ These work well with other Bandai lines like S.H. Figuarts. Figma compatibility 
 
 ### 86TOYS Female 1/12 Scale Semi-Seamless Action Figure Body
 
-<!-- Image Source: https://miro.medium.com/1*c7Trz0sR1NJzpZWMI6JYQw.png | Local: /medium-assets/10/img-34.png -->
-![](/medium-assets/10/img-34.png)
+<!-- Image Source: https://miro.medium.com/1*c7Trz0sR1NJzpZWMI6JYQw.png | Local: /medium-backup-blog/medium-assets/10/img-34.png -->
+![](/medium-backup-blog/medium-assets/10/img-34.png)
 
 Looks decent quality-wise, but it's semi-seamless. Probably uses ball-joint connections like the AliExpress bodies, so same compatibility issues.
 

@@ -5,25 +5,25 @@ permalink: "how-not-to-work-with-local-files-in-n8n"
 order: 2
 publishedAt: "2025-11-10T17:03:26.000Z"
 readingTime: 2
-heroImage: "/medium-assets/02/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/02/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2"
 ---
 <!-- Source: https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2 -->
 <!-- Published: 2025-11-10T13:03:26 -->
 # **How (Not) to Work with Local Files in N8N**
 
-<!-- Image Source: https://miro.medium.com/1*koqq3Ew5pxyr6gvwTwyvdQ.png | Local: /medium-assets/02/img-01.png -->
-![](/medium-assets/02/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*koqq3Ew5pxyr6gvwTwyvdQ.png | Local: /medium-backup-blog/medium-assets/02/img-01.png -->
+![](/medium-backup-blog/medium-assets/02/img-01.png)
 
 I was wondering if it was worth automating video uploads through n8n, so I decided to set up a quick test configuration.
 
-<!-- Image Source: https://miro.medium.com/1*B968gCjQPOfjy1uR6hmNcA.png | Local: /medium-assets/02/img-02.png -->
-![](/medium-assets/02/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*B968gCjQPOfjy1uR6hmNcA.png | Local: /medium-backup-blog/medium-assets/02/img-02.png -->
+![](/medium-backup-blog/medium-assets/02/img-02.png)
 
 I used the **Read/Write Files from Disk** node to read the file path, but... right
 
-<!-- Image Source: https://miro.medium.com/1*AzaRd4uSXuSlC5q5PzvqzA.png | Local: /medium-assets/02/img-03.png -->
-![](/medium-assets/02/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*AzaRd4uSXuSlC5q5PzvqzA.png | Local: /medium-backup-blog/medium-assets/02/img-03.png -->
+![](/medium-backup-blog/medium-assets/02/img-03.png)
 
 Right... I'm running this in Docker, so it needs to be mounted properly in the Docker Compose file:
 
@@ -59,8 +59,8 @@ volumes:
 
 At this point, it should have worked... tried again to read files:
 
-<!-- Image Source: https://miro.medium.com/1*d2wFz-apCaqT16lEGcIUAw.png | Local: /medium-assets/02/img-04.png -->
-![](/medium-assets/02/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*d2wFz-apCaqT16lEGcIUAw.png | Local: /medium-backup-blog/medium-assets/02/img-04.png -->
+![](/medium-backup-blog/medium-assets/02/img-04.png)
 
 And crashed again, here is part of the output:
 

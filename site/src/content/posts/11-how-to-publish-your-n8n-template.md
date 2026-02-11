@@ -5,7 +5,7 @@ permalink: "how-to-publish-your-n8n-template"
 order: 11
 publishedAt: "2025-11-21T07:18:40.000Z"
 readingTime: 4
-heroImage: "/medium-assets/11/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/11/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/how-to-publish-your-n8n-template-375832d8efd7"
 ---
 <!-- Source: https://medium.com/@mister.funable/how-to-publish-your-n8n-template-375832d8efd7 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://medium.com/@mister.funable/how-to-publish-your-n8n-template-
 
 I submitted a template a few months ago ([Auto-Translate YouTube Video Content with Google Gemini AI](https://n8n.io/workflows/9543-auto-translate-youtube-video-content-with-google-gemini-ai/)) and I'm currently doing the process again for the Share Instagram posts to X workflow. So it's a good time to write about how to share templates on n8n.
 
-<!-- Image Source: https://miro.medium.com/1*4XdUIN5SvuiCV1lNlDWx_Q.png | Local: /medium-assets/11/img-01.png -->
-![](/medium-assets/11/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*4XdUIN5SvuiCV1lNlDWx_Q.png | Local: /medium-backup-blog/medium-assets/11/img-01.png -->
+![](/medium-backup-blog/medium-assets/11/img-01.png)
 
 > The real reason for this post is that I keep losing the submission links, which I always come back to on the [Community questions](https://community.n8n.io/t/how-to-share-a-template-to-the-community/110729).
 
@@ -35,13 +35,13 @@ Hurray! Let's move on.
 
 ## Submission Process
 
-<!-- Image Source: https://miro.medium.com/1*MI8c0ZG2sIyH4GqIwYlsOQ.png | Local: /medium-assets/11/img-02.png -->
-![I need to rework the Instagram title](/medium-assets/11/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*MI8c0ZG2sIyH4GqIwYlsOQ.png | Local: /medium-backup-blog/medium-assets/11/img-02.png -->
+![I need to rework the Instagram title](/medium-backup-blog/medium-assets/11/img-02.png)
 
 Click **Share new template** in the Creator Portal and you will see the following:
 
-<!-- Image Source: https://miro.medium.com/1*d7s_i3AXPPg8C3MdO8ASVA.png | Local: /medium-assets/11/img-03.png -->
-![](/medium-assets/11/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*d7s_i3AXPPg8C3MdO8ASVA.png | Local: /medium-backup-blog/medium-assets/11/img-03.png -->
+![](/medium-backup-blog/medium-assets/11/img-03.png)
 
 There will be a link to the [Template submission guidelines](https://n8n.notion.site/Template-submission-guidelines-9959894476734da3b402c90b124b1f77), read it.
 
@@ -63,25 +63,25 @@ Now, let's walkthrough each section.
 
 ### Title and Description
 
-<!-- Image Source: https://miro.medium.com/1*fCsdvjI1AtJGsJi8qV0Dzw.png | Local: /medium-assets/11/img-04.png -->
-![](/medium-assets/11/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*fCsdvjI1AtJGsJi8qV0Dzw.png | Local: /medium-backup-blog/medium-assets/11/img-04.png -->
+![](/medium-backup-blog/medium-assets/11/img-04.png)
 
 Don't worry too much, just follow the guidelines as best as you can. Make it understandable and double check fluidity and grammar with an AI. This way you won't waste time on small mistakes, and the n8n team can focus on actual review feedback.
 
 If they can suggest a better title or improvement, they will.
 
-<!-- Image Source: https://miro.medium.com/1*xmxvQd6c1w4k_mi_uPVAJg.png | Local: /medium-assets/11/img-05.png -->
-![](/medium-assets/11/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*xmxvQd6c1w4k_mi_uPVAJg.png | Local: /medium-backup-blog/medium-assets/11/img-05.png -->
+![](/medium-backup-blog/medium-assets/11/img-05.png)
 
 For the template code, in your workflow screen you can either export it as JSON or just select everything and copy it.
 
-<!-- Image Source: https://miro.medium.com/1*tJx8LQf-Nxt93rGnxMj0fg.png | Local: /medium-assets/11/img-06.png -->
-![cmd + a & cmd + c](/medium-assets/11/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*tJx8LQf-Nxt93rGnxMj0fg.png | Local: /medium-backup-blog/medium-assets/11/img-06.png -->
+![cmd + a & cmd + c](/medium-backup-blog/medium-assets/11/img-06.png)
 
 Paste it in the Template Code section, you will see a looong JSON, then you are good to go.
 
-<!-- Image Source: https://miro.medium.com/1*CO2cgvveovIVLChT6HISOw.png | Local: /medium-assets/11/img-07.png -->
-![The button will light up once all fields are filled](/medium-assets/11/img-07.png)
+<!-- Image Source: https://miro.medium.com/1*CO2cgvveovIVLChT6HISOw.png | Local: /medium-backup-blog/medium-assets/11/img-07.png -->
+![The button will light up once all fields are filled](/medium-backup-blog/medium-assets/11/img-07.png)
 
 Paid option is only available once you have submitted 3 templates. But in most cases it will be free.
 
@@ -99,8 +99,8 @@ And if you're like me and didn't get it, they'll send you an example like this [
 
 It had mostly to do with sticky notes, so let's use my workflow:
 
-<!-- Image Source: https://miro.medium.com/1*ROOUQNaWYzuV6LkFi3YEuw.png | Local: /medium-assets/11/img-08.png -->
-![](/medium-assets/11/img-08.png)
+<!-- Image Source: https://miro.medium.com/1*ROOUQNaWYzuV6LkFi3YEuw.png | Local: /medium-backup-blog/medium-assets/11/img-08.png -->
+![](/medium-backup-blog/medium-assets/11/img-08.png)
 
 Sticky colors are not relevant for this, but I'll use them to differentiate the sticky note types:
 

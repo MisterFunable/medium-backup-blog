@@ -5,7 +5,7 @@ permalink: "sony-a6700-settings-for-unboxing-and-figure-videos"
 order: 7
 publishedAt: "2025-11-17T05:53:09.000Z"
 readingTime: 7
-heroImage: "/medium-assets/07/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/07/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac"
 ---
 <!-- Source: https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac -->
@@ -14,8 +14,8 @@ sourceUrl: "https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-
 
 I do unboxing videos and music videos of collectibles for fun. Nothing fancy, but I try to get as close as possible in quality to share them the way I see things.
 
-<!-- Image Source: https://miro.medium.com/1*EbT89u3yhlp8YzH0tJliIw.png | Local: /medium-assets/07/img-01.png -->
-![](/medium-assets/07/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*EbT89u3yhlp8YzH0tJliIw.png | Local: /medium-backup-blog/medium-assets/07/img-01.png -->
+![](/medium-backup-blog/medium-assets/07/img-01.png)
 
 Getting the settings right on the A6700 has been a process of trial and error, so here's how I do it.
 
@@ -31,8 +31,8 @@ So I have these two categories:
 
 If you've touched a professional camera or have the default lens that comes with the A6700, you're probably wondering, especially for the hands-on videos, how can I do this without putting the camera on my head? The answer is in the type of lens. I use one per category.
 
-<!-- Image Source: https://miro.medium.com/1*NrY1Gkq18HMDQdCZGBYsvQ.png | Local: /medium-assets/07/img-02.png -->
-![](/medium-assets/07/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*NrY1Gkq18HMDQdCZGBYsvQ.png | Local: /medium-backup-blog/medium-assets/07/img-02.png -->
+![](/medium-backup-blog/medium-assets/07/img-02.png)
 
 ### Lens 1: Macro for Spin Videos - Zeiss T* FE 55mm f/1.8
 
@@ -132,8 +132,8 @@ You can see my settings organized based on the camera menu [here](https://gist.g
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*QSIfk9huRrqOxhP0uKvZLw.png | Local: /medium-assets/07/img-03.png -->
-![](/medium-assets/07/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*QSIfk9huRrqOxhP0uKvZLw.png | Local: /medium-backup-blog/medium-assets/07/img-03.png -->
+![](/medium-backup-blog/medium-assets/07/img-03.png)
 
 ## My Lighting Setup
 
@@ -153,8 +153,8 @@ I use three LED panel lights **PL48**.
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*ZXIOV21QSVrLblBZz2LGIQ.png | Local: /medium-assets/07/img-04.png -->
-![](/medium-assets/07/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*ZXIOV21QSVrLblBZz2LGIQ.png | Local: /medium-backup-blog/medium-assets/07/img-04.png -->
+![](/medium-backup-blog/medium-assets/07/img-04.png)
 
 ## Post-Production Issues
 

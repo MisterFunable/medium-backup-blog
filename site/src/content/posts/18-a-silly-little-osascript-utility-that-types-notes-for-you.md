@@ -5,7 +5,7 @@ permalink: "a-silly-little-osascript-utility-that-types-notes-for-you"
 order: 18
 publishedAt: "2025-12-29T18:11:37.000Z"
 readingTime: 4
-heroImage: "/medium-assets/18/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/18/img-01.png"
 sourceUrl: "https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2"
 ---
 <!-- Source: https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/a-silly-little-osascript-utility-that-typ
 
 I went down a rabbit hole the other day: "How do people make a tiny local bot that can interact with a single chat app window, without building a whole app?"
 
-<!-- Image Source: https://miro.medium.com/1*tun1SnglV7mdYOGeR7uDVQ.png | Local: /medium-assets/18/img-01.png -->
-![](/medium-assets/18/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*tun1SnglV7mdYOGeR7uDVQ.png | Local: /medium-backup-blog/medium-assets/18/img-01.png -->
+![](/medium-backup-blog/medium-assets/18/img-01.png)
 
 Not for anything dramatic. Just... local automation. The kind where you run a command, your Mac does a tiny task, and you get that "wait, I can just do that?" feeling. Like the `say hello` command.
 

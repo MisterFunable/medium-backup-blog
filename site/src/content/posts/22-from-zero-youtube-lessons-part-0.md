@@ -5,7 +5,7 @@ permalink: "from-zero-youtube-lessons-part-0"
 order: 22
 publishedAt: "2026-01-03T18:56:44.000Z"
 readingTime: 4
-heroImage: "/medium-assets/22/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/22/img-01.png"
 sourceUrl: "https://funable.medium.com/from-zero-youtube-lessons-part-0-822bb8a9c883"
 ---
 <!-- Source: https://funable.medium.com/from-zero-youtube-lessons-part-0-822bb8a9c883 -->
@@ -16,8 +16,8 @@ sourceUrl: "https://funable.medium.com/from-zero-youtube-lessons-part-0-822bb8a9
 
 My channel got removed, and I don't want this to be the "I peaked in high school" kind of post. I want to learn and reflect on everything that has happened. Yes, the views, the subscribers, and some videos are gone, but not everything is lost.
 
-<!-- Image Source: https://miro.medium.com/1*alEoiJdHnI9WruKNwWZ9qA.png | Local: /medium-assets/22/img-01.png -->
-![](/medium-assets/22/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*alEoiJdHnI9WruKNwWZ9qA.png | Local: /medium-backup-blog/medium-assets/22/img-01.png -->
+![](/medium-backup-blog/medium-assets/22/img-01.png)
 
 It's horrible. Not the channel removal itself, or that it's almost starting all over again. It's going through the first months of a new channel again. Slowwwww growth, but this time 5x worse.
 

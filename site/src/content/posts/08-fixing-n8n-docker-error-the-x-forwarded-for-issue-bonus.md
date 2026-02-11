@@ -5,7 +5,7 @@ permalink: "fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus"
 order: 8
 publishedAt: "2025-11-18T06:00:06.000Z"
 readingTime: 4
-heroImage: "/medium-assets/08/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/08/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a"
 ---
 <!-- Source: https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a -->
@@ -14,8 +14,8 @@ sourceUrl: "https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-for
 
 So you're running N8N locally in Docker, maybe conveniently for this post using Ngrok to expose it, and suddenly your logs are full of scary errors about `X-Forwarded-For` headers and trust proxies. Yeah, I ran into this too.
 
-<!-- Image Source: https://miro.medium.com/1*jsiW-GEKJ-MI5RjOGcAigQ.png | Local: /medium-assets/08/img-01.png -->
-![**The tide is high, but I'm holdin' on**](/medium-assets/08/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*jsiW-GEKJ-MI5RjOGcAigQ.png | Local: /medium-backup-blog/medium-assets/08/img-01.png -->
+![**The tide is high, but I'm holdin' on**](/medium-backup-blog/medium-assets/08/img-01.png)
 
 Let me show you how I fixed it.
 

@@ -5,15 +5,15 @@ permalink: "meshtastic-questions-i-had-after-getting-started"
 order: 4
 publishedAt: "2025-11-14T22:19:05.000Z"
 readingTime: 6
-heroImage: "/medium-assets/04/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/04/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae"
 ---
 <!-- Source: https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae -->
 <!-- Published: 2025-11-14T18:19:05 -->
 # Meshtastic Questions I Had After Getting Started
 
-<!-- Image Source: https://miro.medium.com/1*ajeAjkTcA-PlmUn5P1fo3A.png | Local: /medium-assets/04/img-01.png -->
-![](/medium-assets/04/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*ajeAjkTcA-PlmUn5P1fo3A.png | Local: /medium-backup-blog/medium-assets/04/img-01.png -->
+![](/medium-backup-blog/medium-assets/04/img-01.png)
 
 [After flashing my first Meshtastic device](https://medium.com/@mister.funable/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8), I had about a hundred questions. Here are the ones I actually figured out, organized from "**complete beginner**" to "**okay, now we're getting somewhere.**"
 

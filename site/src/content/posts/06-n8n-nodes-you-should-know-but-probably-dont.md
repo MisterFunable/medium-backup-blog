@@ -5,7 +5,7 @@ permalink: "n8n-nodes-you-should-know-but-probably-dont"
 order: 6
 publishedAt: "2025-11-16T04:17:55.000Z"
 readingTime: 8
-heroImage: "/medium-assets/06/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/06/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/n8n-nodes-you-should-know-but-probably-dont-06d61b77c457"
 ---
 <!-- Source: https://medium.com/@mister.funable/n8n-nodes-you-should-know-but-probably-dont-06d61b77c457 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://medium.com/@mister.funable/n8n-nodes-you-should-know-but-pro
 
 Everyone talks about AI agents and the amazing workflows that you can automate with N8N, which is cool. I get it. But can we talk about the basics for a second?
 
-<!-- Image Source: https://miro.medium.com/1*nZfdP4SpoEmd-zek_exJFA.png | Local: /medium-assets/06/img-01.png -->
-![](/medium-assets/06/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*nZfdP4SpoEmd-zek_exJFA.png | Local: /medium-backup-blog/medium-assets/06/img-01.png -->
+![](/medium-backup-blog/medium-assets/06/img-01.png)
 
 I had a couple of projects that I could simplify by migrating to n8n, reducing maintenance and the pain of scope creep. My first surprise was that it wasn't as intuitive as I wanted. Certain nodes were buried in menus with names that don't exactly scream "use me!" or would make sense right away.
 

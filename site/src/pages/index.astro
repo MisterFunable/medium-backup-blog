@@ -5,6 +5,7 @@ import PostCard from '../components/PostCard.astro';
 import { postsIndex } from '../data/posts';
 import { formatDate } from '../utils/formatDate';
 
+const base = import.meta.env.BASE_URL;
 const heroPost = postsIndex.find((post) => post.permalink.includes('meshtastic-questions')) ?? postsIndex[0];
 const latest = postsIndex.slice(0, 3);
 const archive = postsIndex.slice(3);
@@ -13,7 +14,7 @@ const archive = postsIndex.slice(3);
 <Layout
   title="Mister Funable Field Notes — Creative playbooks"
   description="Hardware hacks, camera experiments, automation tinkering, and fandom logs from Mister Funable."
-  ogImage={heroPost?.heroImage ?? '/medium-assets/04/img-01.png'}
+  ogImage={heroPost?.heroImage ?? `${base}medium-assets/04/img-01.png`}
 >
   <SiteHeader />
   <main>
@@ -21,7 +22,7 @@ const archive = postsIndex.slice(3);
       id="hero"
       class="relative isolate overflow-hidden bg-gradient-to-br from-emerald-900/40 via-slate-900 to-slate-950 py-20"
     >
-      <div class="pointer-events-none absolute inset-y-0 right-0 hidden w-1/2 bg-[url('/medium-assets/04/img-01.png')] bg-cover bg-center opacity-10 lg:block"></div>
+      <div class="pointer-events-none absolute inset-y-0 right-0 hidden w-1/2 bg-cover bg-center opacity-10 lg:block" style={`background-image: url('${base}medium-assets/04/img-01.png')`}></div>
       <div class="mx-auto flex max-w-6xl flex-col gap-12 px-4 lg:flex-row lg:items-center lg:px-6">
         <div class="space-y-6 lg:w-3/5">
           <p class="text-sm font-semibold uppercase tracking-[0.5em] text-lime-200/80">
@@ -37,7 +38,7 @@ const archive = postsIndex.slice(3);
           <div class="flex flex-col gap-3 sm:flex-row">
             <a
               class="inline-flex items-center justify-center rounded-full bg-gradient-to-r from-lime-300/90 to-emerald-400 px-6 py-3 text-sm font-semibold text-ink shadow-lg shadow-emerald-500/30"
-              href={`/posts/${heroPost.permalink}`}
+              href={`${base}posts/${heroPost.permalink}`}
             >
               Read highlighted post
             </a>

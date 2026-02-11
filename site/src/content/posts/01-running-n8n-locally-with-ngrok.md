@@ -5,15 +5,15 @@ permalink: "running-n8n-locally-with-ngrok"
 order: 1
 publishedAt: "2025-10-27T07:24:44.000Z"
 readingTime: 2
-heroImage: "/medium-assets/01/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/01/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/running-n8n-locally-with-ngrok-734af69e1530"
 ---
 <!-- Source: https://medium.com/@mister.funable/running-n8n-locally-with-ngrok-734af69e1530 -->
 <!-- Published: 2025-10-27T03:24:44 -->
 # Running N8N Locally with Ngrok
 
-<!-- Image Source: https://miro.medium.com/1*PepZalI-33SY1gYaRgL8eQ.png | Local: /medium-assets/01/img-01.png -->
-![](/medium-assets/01/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*PepZalI-33SY1gYaRgL8eQ.png | Local: /medium-backup-blog/medium-assets/01/img-01.png -->
+![](/medium-backup-blog/medium-assets/01/img-01.png)
 
 If you've made it past the basics of N8N, this guide will show you how to run it locally and make it accessible via a public URL using a tunnel service like **Ngrok**. I'll assume you're on MacOS (adjust accordingly for other systems).
 
@@ -97,11 +97,11 @@ Make sure the ports are mapped correctly.
 
 Start your Docker Compose setup, and visit your Ngrok URL in a browser. Your local N8N instance should now be accessible publicly, including webhook and callback endpoints.
 
-<!-- Image Source: https://miro.medium.com/1*JZAFG7X_hAii_6nd7Iw1lQ.png | Local: /medium-assets/01/img-02.png -->
-![YouTube Callback Test](/medium-assets/01/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*JZAFG7X_hAii_6nd7Iw1lQ.png | Local: /medium-backup-blog/medium-assets/01/img-02.png -->
+![YouTube Callback Test](/medium-backup-blog/medium-assets/01/img-02.png)
 
-<!-- Image Source: https://miro.medium.com/1*zfEy6nX7q0KIWMXAotX_7Q.png | Local: /medium-assets/01/img-03.png -->
-![Connection Successful!](/medium-assets/01/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*zfEy6nX7q0KIWMXAotX_7Q.png | Local: /medium-backup-blog/medium-assets/01/img-03.png -->
+![Connection Successful!](/medium-backup-blog/medium-assets/01/img-03.png)
 
 And that's it!
 

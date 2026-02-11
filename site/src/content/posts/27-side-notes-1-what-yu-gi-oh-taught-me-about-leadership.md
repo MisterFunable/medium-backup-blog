@@ -5,7 +5,7 @@ permalink: "side-notes-1-what-yu-gi-oh-taught-me-about-leadership"
 order: 27
 publishedAt: "2026-01-23T04:49:49.000Z"
 readingTime: 7
-heroImage: "/medium-assets/27/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/27/img-01.png"
 sourceUrl: "https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7"
 ---
 <!-- Source: https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-abou
 
 ### _A series of random thoughts and perceptions_
 
-<!-- Image Source: https://miro.medium.com/1*eGJPIOtrkhwJb5arn76_JQ.png | Local: /medium-assets/27/img-01.png -->
-![](/medium-assets/27/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*eGJPIOtrkhwJb5arn76_JQ.png | Local: /medium-backup-blog/medium-assets/27/img-01.png -->
+![](/medium-backup-blog/medium-assets/27/img-01.png)
 
 I had a recent realization: making people "shine," as one of my clients put it, isn't actually that common.
 
@@ -41,8 +41,8 @@ I value having the agency to decide how I handle tasks and projects. My aim is t
 
 ## Development Arc
 
-<!-- Image Source: https://miro.medium.com/1*MUAcqnYe9llYWZkRqvfGXQ.png | Local: /medium-assets/27/img-02.png -->
-![](/medium-assets/27/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*MUAcqnYe9llYWZkRqvfGXQ.png | Local: /medium-backup-blog/medium-assets/27/img-02.png -->
+![](/medium-backup-blog/medium-assets/27/img-02.png)
 
 I spent a lot of time on Yu-Gi-Oh. Looking back, like most things, it was a side quest to acquire something else. In this case, it was the mentality.
 
@@ -54,8 +54,8 @@ That's why I don't blame Fusion users. If you start with raw power, the optimal 
 
 ## Deck Building as Strategy
 
-<!-- Image Source: https://miro.medium.com/1*AavqJ7TKgKah0-3auOAM2g.png | Local: /medium-assets/27/img-03.png -->
-![Draw! Draw! Draw!](/medium-assets/27/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*AavqJ7TKgKah0-3auOAM2g.png | Local: /medium-backup-blog/medium-assets/27/img-03.png -->
+![Draw! Draw! Draw!](/medium-backup-blog/medium-assets/27/img-03.png)
 
 Coming back to leadership, coordination, and strategy... from my standpoint, it's not that hard. There were personal challenges, sure. But when it comes to using resources, it's usually obvious what needs to be played.
 
@@ -75,8 +75,8 @@ Yes. It happens.
 
 ## People as Cards
 
-<!-- Image Source: https://miro.medium.com/1*QjpR4hg7oVhugNvXMA4JkQ.png | Local: /medium-assets/27/img-04.png -->
-![In ancient Egypt, they didn't have LinkedIn. They had rocks with text, and you used them to fight.](/medium-assets/27/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*QjpR4hg7oVhugNvXMA4JkQ.png | Local: /medium-backup-blog/medium-assets/27/img-04.png -->
+![In ancient Egypt, they didn't have LinkedIn. They had rocks with text, and you used them to fight.](/medium-backup-blog/medium-assets/27/img-04.png)
 
 When you spend enough time around people, you start to notice patterns. Most have a default way of operating, a predictable set of strengths, and habits that repeat a little too often.
  As you interact more, you discover additional skills, preferences, and above all, conditions under which they work best.
@@ -93,8 +93,8 @@ That's the mentality behind Synchro Summoning.
 
 ## Summoning Philosophies
 
-<!-- Image Source: https://miro.medium.com/1*4W5XhrH-z-KkiOkZoFWDXg.png | Local: /medium-assets/27/img-05.png -->
-![](/medium-assets/27/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*4W5XhrH-z-KkiOkZoFWDXg.png | Local: /medium-backup-blog/medium-assets/27/img-05.png -->
+![](/medium-backup-blog/medium-assets/27/img-05.png)
 
 I've never liked the mentality behind **Fusion Summoning**. To me, it feels like handholding. Impactful, sure, but most of the time it's a waste of resources and a loss of versatility.
  In practical terms, it's like a client expecting three Blue-Eyes White Dragons by fusing a high-level senior with a semi-senior. It might work, but you end up with a single outcome instead of two or three, after burning three resources to get there.
@@ -109,8 +109,8 @@ That's the style I like. It feels more realistic. Small, well-timed efforts, ali
 
 ## Being a Tuner
 
-<!-- Image Source: https://miro.medium.com/1*CgGGNbwq8-FQe7VhZFoX0w.png | Local: /medium-assets/27/img-06.png -->
-![Discard one card and summon it! Also 5 stars!](/medium-assets/27/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*CgGGNbwq8-FQe7VhZFoX0w.png | Local: /medium-backup-blog/medium-assets/27/img-06.png -->
+![Discard one card and summon it! Also 5 stars!](/medium-backup-blog/medium-assets/27/img-06.png)
 
 As a bit of an overshare, I've always identified strongly with **Quickdraw Synchron**. Partly because my deck revolved around it, but also because it became my mental model for speed, level awareness, and timing.
 
@@ -124,8 +124,8 @@ At my current level, that tuning ability can feel overpowered. But it only exist
 
 ## The Caveats
 
-<!-- Image Source: https://youtu.be/z8YgTLZIpdw?si=ocvGPrriiNgMuA_w&t=70 | Local: /medium-assets/27/img-07.html -->
-![[Cuz a have a clear mind~](/medium-assets/27/img-07.html)](https://miro.medium.com/1*RCg3iH0QBrF_4kUGOFcZFQ.png)
+<!-- Image Source: https://youtu.be/z8YgTLZIpdw?si=ocvGPrriiNgMuA_w&t=70 | Local: /medium-backup-blog/medium-assets/27/img-07.html -->
+![[Cuz a have a clear mind~](/medium-backup-blog/medium-assets/27/img-07.html)](https://miro.medium.com/1*RCg3iH0QBrF_4kUGOFcZFQ.png)
 
 Because I tend to think clearly and quickly, there's an obvious trap for someone like me: over-relying on myself to start every combo. You either burn yourself out, or if you're managing people, you burn your Tuners.
 
@@ -141,8 +141,8 @@ To live a long life, some inner peace is required. Battles are fun, but some gam
 
 ## In Summary
 
-<!-- Image Source: https://www.youtube.com/watch?v=kj3WS1pT18k | Local: /medium-assets/27/img-08.html -->
-![**[Limit Over Accel Synchro!](/medium-assets/27/img-08.html)**](https://miro.medium.com/1*4-a1WPY8jxFPJ4_ZD_jLng.png)
+<!-- Image Source: https://www.youtube.com/watch?v=kj3WS1pT18k | Local: /medium-backup-blog/medium-assets/27/img-08.html -->
+![**[Limit Over Accel Synchro!](/medium-backup-blog/medium-assets/27/img-08.html)**](https://miro.medium.com/1*4-a1WPY8jxFPJ4_ZD_jLng.png)
 
 Yusei is the best Yu-Gi-Oh protagonist, and his ending is a solid illustration of everything I'm talking about here. Yes, getting a real job.
 

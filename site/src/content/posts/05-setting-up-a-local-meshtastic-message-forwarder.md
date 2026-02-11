@@ -5,15 +5,15 @@ permalink: "setting-up-a-local-meshtastic-message-forwarder"
 order: 5
 publishedAt: "2025-11-14T23:07:25.000Z"
 readingTime: 6
-heroImage: "/medium-assets/05/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/05/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e"
 ---
 <!-- Source: https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e -->
 <!-- Published: 2025-11-14T19:07:25 -->
 # Setting Up a Local Meshtastic Message Forwarder
 
-<!-- Image Source: https://miro.medium.com/1*wgq0vrSKYdKAtURprU7YJA.png | Local: /medium-assets/05/img-01.png -->
-![](/medium-assets/05/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*wgq0vrSKYdKAtURprU7YJA.png | Local: /medium-backup-blog/medium-assets/05/img-01.png -->
+![](/medium-backup-blog/medium-assets/05/img-01.png)
 
 After getting my Meshtastic devices running, I wanted to do more than just send messages through the app. The goal: set up a local forwarder that listens to a secondary channel and exports those messages. Basically, chat with myself in a private channel and see the messages show up in Python.
 

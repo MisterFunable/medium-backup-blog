@@ -5,7 +5,7 @@ permalink: "making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-plat
 order: 12
 publishedAt: "2025-12-02T15:45:03.000Z"
 readingTime: 4
-heroImage: "/medium-assets/12/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/12/img-01.png"
 sourceUrl: "https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab"
 ---
 <!-- Source: https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/making-a-local-web-server-with-the-dfrobo
 
 Without any sensors or screens, a small web server as first project seemed fine.
 
-<!-- Image Source: https://miro.medium.com/1*PPEvu8Q6roO-uht_8CU0nA.png | Local: /medium-assets/12/img-01.png -->
-![Thanks 🍌  Pro](/medium-assets/12/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*PPEvu8Q6roO-uht_8CU0nA.png | Local: /medium-backup-blog/medium-assets/12/img-01.png -->
+![Thanks 🍌  Pro](/medium-backup-blog/medium-assets/12/img-01.png)
 
 If the Arduino IDE feels clunky, [PlatformIO](https://platformio.org/) inside VS Code is much smoother and supports the exact same code. Most official [PlatformIO example repos](https://github.com/platformio/platformio-examples/tree/develop) follow the same flow you'll see here.
 
@@ -27,8 +27,8 @@ If the Arduino IDE feels clunky, [PlatformIO](https://platformio.org/) inside VS
 
 - [VS Code](https://code.visualstudio.com/) with the [PlatformIO IDE](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) extension
 
-<!-- Image Source: https://miro.medium.com/1*AvkUn_fZFs33ihtvF6B6ug.png | Local: /medium-assets/12/img-02.png -->
-![](/medium-assets/12/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*AvkUn_fZFs33ihtvF6B6ug.png | Local: /medium-backup-blog/medium-assets/12/img-02.png -->
+![](/medium-backup-blog/medium-assets/12/img-02.png)
 
 - Your 2.4 GHz WiFi SSID and password (ESP32 boards don't speak 5 GHz)
 
@@ -44,8 +44,8 @@ Yes, Blink is the most boring sketch on earth, but nothing is worse than debuggi
 
 ### Create the Project
 
-<!-- Image Source: https://miro.medium.com/1*nwdpsC0ch-qZarA5bS-f4g.png | Local: /medium-assets/12/img-03.png -->
-![In the folder](/medium-assets/12/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*nwdpsC0ch-qZarA5bS-f4g.png | Local: /medium-backup-blog/medium-assets/12/img-03.png -->
+![In the folder](/medium-backup-blog/medium-assets/12/img-03.png)
 
 1. Open PlatformIO and click **New Project**
 
@@ -57,8 +57,8 @@ Yes, Blink is the most boring sketch on earth, but nothing is worse than debuggi
 
 ### Configure platformio.ini
 
-<!-- Image Source: https://miro.medium.com/1*yxUEA0UEjoCFCZpNb9SGLA.png | Local: /medium-assets/12/img-04.png -->
-![](/medium-assets/12/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*yxUEA0UEjoCFCZpNb9SGLA.png | Local: /medium-backup-blog/medium-assets/12/img-04.png -->
+![](/medium-backup-blog/medium-assets/12/img-04.png)
 
 Open `platformio.ini`and make it simple:
 
@@ -95,15 +95,15 @@ void loop() {
 
 ### Upload and Test
 
-<!-- Image Source: https://miro.medium.com/1*IrG8X1eZE80WUWbr7hcD9w.png | Local: /medium-assets/12/img-05.png -->
-![Logo > Upload > Check Terminal](/medium-assets/12/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*IrG8X1eZE80WUWbr7hcD9w.png | Local: /medium-backup-blog/medium-assets/12/img-05.png -->
+![Logo > Upload > Check Terminal](/medium-backup-blog/medium-assets/12/img-05.png)
 
 Click **Upload** in the **PlatformIO** sidebar and wait for the compile to finish. If the onboard LED blinks, **PlatformIO** can talk to the hardware and you're ready for WiFi work.
 
 Your board (if the same), should look like this:
 
-<!-- Image Source: https://miro.medium.com/1*kSxKL4wKMC97Jwvw_XgXjQ.png | Local: /medium-assets/12/img-06.png -->
-![But blinking fast, lol](/medium-assets/12/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*kSxKL4wKMC97Jwvw_XgXjQ.png | Local: /medium-backup-blog/medium-assets/12/img-06.png -->
+![But blinking fast, lol](/medium-backup-blog/medium-assets/12/img-06.png)
 
 Once you see that green light blinking, you're good. The board works, PlatformIO can talk to it, and you're ready to move on.
 
@@ -239,18 +239,18 @@ void loop() {
 
 ### Upload the Web Page
 
-<!-- Image Source: https://miro.medium.com/1*8vxEy9RCkk3x3F9QzqLQHQ.png | Local: /medium-assets/12/img-07.png -->
-![](/medium-assets/12/img-07.png)
+<!-- Image Source: https://miro.medium.com/1*8vxEy9RCkk3x3F9QzqLQHQ.png | Local: /medium-backup-blog/medium-assets/12/img-07.png -->
+![](/medium-backup-blog/medium-assets/12/img-07.png)
 
 Upload using the **Upload and Monitor** option so the Serial monitor prints the assigned IP address as soon as WiFi connects.
 
-<!-- Image Source: https://miro.medium.com/1*G4Ge3_7BuNkGvQ5Vw5E9Rw.png | Local: /medium-assets/12/img-08.png -->
-![](/medium-assets/12/img-08.png)
+<!-- Image Source: https://miro.medium.com/1*G4Ge3_7BuNkGvQ5Vw5E9Rw.png | Local: /medium-backup-blog/medium-assets/12/img-08.png -->
+![](/medium-backup-blog/medium-assets/12/img-08.png)
 
 And now you should be able to see the website:
 
-<!-- Image Source: https://miro.medium.com/1*68PLH36IugKLDdLDEPdgbA.png | Local: /medium-assets/12/img-09.png -->
-![](/medium-assets/12/img-09.png)
+<!-- Image Source: https://miro.medium.com/1*68PLH36IugKLDdLDEPdgbA.png | Local: /medium-backup-blog/medium-assets/12/img-09.png -->
+![](/medium-backup-blog/medium-assets/12/img-09.png)
 
 Open that IP in a browser on the same WiFi network and you should see the two-button page. If the browser blocks local-network access, enable it for this site or just test in Safari.
 
@@ -262,13 +262,13 @@ curl http://YOUR_LOCAL_IP/on
 curl http://YOUR_LOCAL_IP/off
 ```
 
-<!-- Image Source: https://miro.medium.com/1*6UQyorlRw2bZEw9hEVzAPA.png | Local: /medium-assets/12/img-10.png -->
-![Monitor output](/medium-assets/12/img-10.png)
+<!-- Image Source: https://miro.medium.com/1*6UQyorlRw2bZEw9hEVzAPA.png | Local: /medium-backup-blog/medium-assets/12/img-10.png -->
+![Monitor output](/medium-backup-blog/medium-assets/12/img-10.png)
 
 And yes! The light is On. Congrats champ!
 
-<!-- Image Source: https://miro.medium.com/1*kSxKL4wKMC97Jwvw_XgXjQ.png | Local: /medium-assets/12/img-06.png -->
-![](/medium-assets/12/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*kSxKL4wKMC97Jwvw_XgXjQ.png | Local: /medium-backup-blog/medium-assets/12/img-06.png -->
+![](/medium-backup-blog/medium-assets/12/img-06.png)
 
 ---
 

@@ -5,7 +5,7 @@ permalink: "uploading-instagram-videos-to-youtube-with-n8n"
 order: 26
 publishedAt: "2026-01-17T18:48:09.000Z"
 readingTime: 4
-heroImage: "/medium-assets/26/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/26/img-01.png"
 sourceUrl: "https://funable.medium.com/uploading-instagram-videos-to-youtube-with-n8n-6df5ad3c2523"
 ---
 <!-- Source: https://funable.medium.com/uploading-instagram-videos-to-youtube-with-n8n-6df5ad3c2523 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/uploading-instagram-videos-to-youtube-wit
 
 After the Instagram to Twitter workflow, this one was kind of inevitable. Most of my latest content goes to Instagram first since I can adjust the colors more precisely on the phone. Then through n8n... why not automate the upload?
 
-<!-- Image Source: https://miro.medium.com/1*_CkwrNqqlKqv48RllIuCyQ.png | Local: /medium-assets/26/img-01.png -->
-![](/medium-assets/26/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*_CkwrNqqlKqv48RllIuCyQ.png | Local: /medium-backup-blog/medium-assets/26/img-01.png -->
+![](/medium-backup-blog/medium-assets/26/img-01.png)
 
 Most existing workflows use spreadsheets to handle scheduling. That's too cumbersome for me. I opted for a simpler approach: run at a certain time, pull a certain amount of videos, then add a delay between uploads so they're spaced out with a reasonable gap.
 

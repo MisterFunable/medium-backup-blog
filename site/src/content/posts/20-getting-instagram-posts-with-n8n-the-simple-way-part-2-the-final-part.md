@@ -5,7 +5,7 @@ permalink: "getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-par
 order: 20
 publishedAt: "2025-12-31T16:43:34.000Z"
 readingTime: 2
-heroImage: "/medium-assets/20/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/20/img-01.png"
 sourceUrl: "https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74"
 ---
 <!-- Source: https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/getting-instagram-posts-with-n8n-the-simp
 
 And finally... this is the post where we actually get to Twitter (X).
 
-<!-- Image Source: https://miro.medium.com/1*mCqWqsEUW-vmmfIzluTEMQ.png | Local: /medium-assets/20/img-01.png -->
-![](/medium-assets/20/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*mCqWqsEUW-vmmfIzluTEMQ.png | Local: /medium-backup-blog/medium-assets/20/img-01.png -->
+![](/medium-backup-blog/medium-assets/20/img-01.png)
 
 The workflow runs on a schedule, checks the Instagram API for your latest post, validates against an n8n Data Table so it doesn't repost, and if it's new, it posts to X and stores the IDs.
 
@@ -55,8 +55,8 @@ I'll link it [here](https://github.com/MisterFunable/[n8n-templates](https://git
 
 This is the file that you [need](https://github.com/MisterFunable/n8n-templates/blob/main/Instagram%20to%20X/template.json) to paste on a new (ideally empty) workflow.
 
-<!-- Image Source: https://miro.medium.com/1*5MHZjLUMEWw7jN1wEIe6Bg.png | Local: /medium-assets/20/img-02.png -->
-![](/medium-assets/20/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*5MHZjLUMEWw7jN1wEIe6Bg.png | Local: /medium-backup-blog/medium-assets/20/img-02.png -->
+![](/medium-backup-blog/medium-assets/20/img-02.png)
 
 This is the entire logic:
 

@@ -5,7 +5,7 @@ permalink: "part-1-designing-a-mascotlogo-my-journey-with-ai-image-generation"
 order: 13
 publishedAt: "2025-12-05T10:37:56.000Z"
 readingTime: 3
-heroImage: "/medium-assets/13/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/13/img-01.png"
 sourceUrl: "https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05"
 ---
 <!-- Source: https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05 -->
@@ -16,8 +16,8 @@ With the release of **Nanobana Pro**, I wanted to see how far I could push my li
 
 This article is basically a _love letter_ to my mascot, **Undefined-chan**, and everything I've learned while trying to give her a consistent digital life.
 
-<!-- Image Source: https://miro.medium.com/1*FnKKzMiDaieN59k0Re9JcQ.png | Local: /medium-assets/13/img-01.png -->
-![Accurate representation of my computer, bless Nanobana](/medium-assets/13/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*FnKKzMiDaieN59k0Re9JcQ.png | Local: /medium-backup-blog/medium-assets/13/img-01.png -->
+![Accurate representation of my computer, bless Nanobana](/medium-backup-blog/medium-assets/13/img-01.png)
 
 Tech often lacks cuteness, which is exactly why I lean into it. A character makes things prettier and way less boring, and, let's be honest, I'm too lazy to draw something that's basically complementary to the real work.
 
@@ -43,11 +43,11 @@ To make it more fun, I'll include the image of the generated logo +
 
 ### First Iteration: ChatGPT
 
-<!-- Image Source: https://miro.medium.com/1*u1WVpeg9tjda8d10pHHqfw.jpeg | Local: /medium-assets/13/img-02.jpg -->
-![](/medium-assets/13/img-02.jpg)
+<!-- Image Source: https://miro.medium.com/1*u1WVpeg9tjda8d10pHHqfw.jpeg | Local: /medium-backup-blog/medium-assets/13/img-02.jpg -->
+![](/medium-backup-blog/medium-assets/13/img-02.jpg)
 
-<!-- Image Source: https://miro.medium.com/1*Zdq6xceRjiOvO1jWKsvLIA.png | Local: /medium-assets/13/img-03.png -->
-![_Logo (ChatGPT) and Sketch (Nanobanana Pro)_](/medium-assets/13/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*Zdq6xceRjiOvO1jWKsvLIA.png | Local: /medium-backup-blog/medium-assets/13/img-03.png -->
+![_Logo (ChatGPT) and Sketch (Nanobanana Pro)_](/medium-backup-blog/medium-assets/13/img-03.png)
 
 > **Prompt**: Retro girl pilot mech style, red hair, cute (+ $MANY_DETAILS_THAT_WILL_BE_IGNORED)
 
@@ -57,8 +57,8 @@ Unfortunately, even when I liked this logo, it didn't look good at small sizes. 
 
 > **Prompt + logo:** _Redraw her to show the capabilities of Nanobanana Pro_
 
-<!-- Image Source: https://miro.medium.com/1*jVcapXmbGKs9tGCD64aXrw.jpeg | Local: /medium-assets/13/img-04.jpg -->
-![Looks like one of those fake mobile game ads for adults. **10/10.** Not useful, but hilarious](/medium-assets/13/img-04.jpg)
+<!-- Image Source: https://miro.medium.com/1*jVcapXmbGKs9tGCD64aXrw.jpeg | Local: /medium-backup-blog/medium-assets/13/img-04.jpg -->
+![Looks like one of those fake mobile game ads for adults. **10/10.** Not useful, but hilarious](/medium-backup-blog/medium-assets/13/img-04.jpg)
 
 ---
 
@@ -70,11 +70,11 @@ That was around the time when AI models started getting more consistent, so I ex
 
 Amid the chaos of saving multiple copies and trying to rerun edits, I ended up with this:
 
-<!-- Image Source: https://miro.medium.com/1*Fh_NCMUM1zZfGmkIBk89Yw.png | Local: /medium-assets/13/img-05.png -->
-![](/medium-assets/13/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*Fh_NCMUM1zZfGmkIBk89Yw.png | Local: /medium-backup-blog/medium-assets/13/img-05.png -->
+![](/medium-backup-blog/medium-assets/13/img-05.png)
 
-<!-- Image Source: https://miro.medium.com/1*5ruJYneriMzETV07FFED2Q.png | Local: /medium-assets/13/img-06.png -->
-![_Logo (ChatGPT+Artlist) and Sketch (Nanobanana Pro)_](/medium-assets/13/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*5ruJYneriMzETV07FFED2Q.png | Local: /medium-backup-blog/medium-assets/13/img-06.png -->
+![_Logo (ChatGPT+Artlist) and Sketch (Nanobanana Pro)_](/medium-backup-blog/medium-assets/13/img-06.png)
 
 It was still hit-or-miss, but at least most edits applied consistently. That alone felt magical.
 
@@ -82,8 +82,8 @@ It was still hit-or-miss, but at least most edits applied consistently. That alo
 
 > **Prompt + logo:** _Redraw him to show the capabilities of Nanobanana Pro_
 
-<!-- Image Source: https://miro.medium.com/1*AIKsrkgHVNWMxbidG5NCzw.png | Local: /medium-assets/13/img-07.png -->
-![Using Nanobanana is like peeling a banana...](/medium-assets/13/img-07.png)
+<!-- Image Source: https://miro.medium.com/1*AIKsrkgHVNWMxbidG5NCzw.png | Local: /medium-backup-blog/medium-assets/13/img-07.png -->
+![Using Nanobanana is like peeling a banana...](/medium-backup-blog/medium-assets/13/img-07.png)
 
 At this point I made new iterations over the original logo which led for the current Undefined-chan.
 
@@ -91,8 +91,8 @@ At this point I made new iterations over the original logo which led for the cur
 
 ## Next
 
-<!-- Image Source: https://miro.medium.com/1*4Vrdi2DDSsjS2Kuk3_ER0g.jpeg | Local: /medium-assets/13/img-08.jpg -->
-![It took around four attempts to get this result with Nanobanana Pro.](/medium-assets/13/img-08.jpg)
+<!-- Image Source: https://miro.medium.com/1*4Vrdi2DDSsjS2Kuk3_ER0g.jpeg | Local: /medium-backup-blog/medium-assets/13/img-08.jpg -->
+![It took around four attempts to get this result with Nanobanana Pro.](/medium-backup-blog/medium-assets/13/img-08.jpg)
 
 Hopefully I won't take a month to publish the next part, but I'll leave space below for the upcoming entries:
 
@@ -102,5 +102,5 @@ Hopefully I won't take a month to publish the next part, but I'll leave space be
 
 And to close this first part... a meme:
 
-<!-- Image Source: https://miro.medium.com/1*TLKQciNltUyqSwT2GZChMg.png | Local: /medium-assets/13/img-09.png -->
-![🍌 ](/medium-assets/13/img-09.png)
+<!-- Image Source: https://miro.medium.com/1*TLKQciNltUyqSwT2GZChMg.png | Local: /medium-backup-blog/medium-assets/13/img-09.png -->
+![🍌 ](/medium-backup-blog/medium-assets/13/img-09.png)

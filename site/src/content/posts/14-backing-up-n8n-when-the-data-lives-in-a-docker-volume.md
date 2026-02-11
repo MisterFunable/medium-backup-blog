@@ -5,7 +5,7 @@ permalink: "backing-up-n8n-when-the-data-lives-in-a-docker-volume"
 order: 14
 publishedAt: "2025-12-06T18:11:55.000Z"
 readingTime: 5
-heroImage: "/medium-assets/14/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/14/img-01.png"
 sourceUrl: "https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172"
 ---
 <!-- Source: https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-d
 
 I got a new MacBook and wanted my N8N instance to come with me. So I needed to move my workflows and credentials under `n8n_data`, but yeah, where is it?
 
-<!-- Image Source: https://miro.medium.com/1*ILHiHKOFMkgA_PMJEK-Stw.png | Local: /medium-assets/14/img-01.png -->
-![](/medium-assets/14/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*ILHiHKOFMkgA_PMJEK-Stw.png | Local: /medium-backup-blog/medium-assets/14/img-01.png -->
+![](/medium-backup-blog/medium-assets/14/img-01.png)
 
 **Spoiler**: it was in a Docker-managed volume, not a local bind mount, so nothing showed up in Finder.
 

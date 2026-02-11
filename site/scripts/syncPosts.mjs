@@ -6,6 +6,7 @@ const EXPORT_ROOT = path.resolve(SITE_ROOT, '../exports/medium_posts');
 const POSTS_DIR = path.resolve(SITE_ROOT, 'src/content/posts');
 const MEDIA_DEST = path.resolve(SITE_ROOT, 'public/medium-assets');
 const MANIFEST_PATH = path.resolve(SITE_ROOT, 'src/data/posts.ts');
+const BASE_PATH = '/medium-backup-blog';
 
 const COMMENT_REGEX = /<!--([\s\S]*?)-->/g;
 const IMAGE_MARKDOWN_SOURCE = String.raw`!\[(.*?)\]\((images\/(\d{2})\/([^)]+))\)`;
@@ -83,7 +84,7 @@ const rewriteMarkdownImages = async (markdown) => {
   const replaced = markdown.replace(regex, (_whole, alt, relPath, folderNum) => {
     const cleaned = relPath.replace(/^images\//, '');
     matches.push({ folderNum });
-    return `![${alt}](/medium-assets/${cleaned})`;
+    return `![${alt}](${BASE_PATH}/medium-assets/${cleaned})`;
   });
 
   for (const { folderNum } of matches) {
@@ -100,7 +101,7 @@ const rewriteMarkdownImages = async (markdown) => {
   }
 
   return replaced.replace(/(Local:\s*)(images\/(\d{2})\/[^\s]+)(\s*-->)/g, (_m, prefix, rel, _folder, suffix) => {
-    const newPath = `/medium-assets/${rel.replace(/^images\//, '')}`;
+    const newPath = `${BASE_PATH}/medium-assets/${rel.replace(/^images\//, '')}`;
     return `${prefix}${newPath}${suffix}`;
   });
 };
@@ -141,7 +142,7 @@ async function main() {
     const excerpt = plainExcerpt(rewrittenMarkdown);
     const description = excerpt.slice(0, 180);
     const readingTime = toReadingTime(rewrittenMarkdown);
-    const heroImage = heroImageRelative ? `/medium-assets/${heroImageRelative}` : null;
+    const heroImage = heroImageRelative ? `${BASE_PATH}/medium-assets/${heroImageRelative}` : null;
 
     const frontmatter = buildFrontmatter({
       title: label,

@@ -5,7 +5,7 @@ permalink: "boardgamegeek-player-resources-aids"
 order: 15
 publishedAt: "2025-12-21T22:43:52.000Z"
 readingTime: 3
-heroImage: "/medium-assets/15/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/15/img-01.png"
 sourceUrl: "https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455"
 ---
 <!-- Source: https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37
 
 I used to think [BoardGameGeek (BGG)](https://boardgamegeek.com/) was basically: forums, deals, and a place to track your collection. Which is true. But it's also a big vault of community-made stuff: quick-reference sheets, custom rules, campaign trackers, print-and-play extras, and "this fixes the game" variants.
 
-<!-- Image Source: https://miro.medium.com/1*zqhI3VNf2XgISTIY-43MYg.png | Local: /medium-assets/15/img-01.png -->
-![](/medium-assets/15/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*zqhI3VNf2XgISTIY-43MYg.png | Local: /medium-backup-blog/medium-assets/15/img-01.png -->
+![](/medium-backup-blog/medium-assets/15/img-01.png)
 
 And I only noticed because I started hitting the classic problem: I _know_ we played this last month, but do I remember the rules correctly... or am I confidently making things up because it's 1 AM and someone just said "trust me"? In my case, I started struggling with some stuff in _Horizon Zero Dawn_ from Steamforged Games (SFG), went digging, and realized BGG had way more practical help than I expected.
 
@@ -25,15 +25,15 @@ Also, my group swaps games a lot depending on the general consensus (or the sobe
 
 ## Finding resources
 
-<!-- Image Source: https://miro.medium.com/1*j59qTRrRhQBjA3ET6OVhag.png | Local: /medium-assets/15/img-02.png -->
-![](/medium-assets/15/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*j59qTRrRhQBjA3ET6OVhag.png | Local: /medium-backup-blog/medium-assets/15/img-02.png -->
+![](/medium-backup-blog/medium-assets/15/img-02.png)
 
 Go to [BoardGameGeek](https://boardgamegeek.com/) and use the **search bar**. Type the game name (ex: "Marvel Champions"), then open the game's main page.
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*VTo9DMpdfTw2o9Mb2E24aA.png | Local: /medium-assets/15/img-03.png -->
-![](/medium-assets/15/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*VTo9DMpdfTw2o9Mb2E24aA.png | Local: /medium-backup-blog/medium-assets/15/img-03.png -->
+![](/medium-backup-blog/medium-assets/15/img-03.png)
 
 Once you're on the game page, you'll see a bunch of tabs/sections and a bunch of numbers (rating, complexity/weight, rank, etc.).
 
@@ -71,8 +71,8 @@ Here's the "what do I click?" map, in normal people terms:
 
 ## The actual goal: downloading a Player Aid from "Files"
 
-<!-- Image Source: https://miro.medium.com/1*u2Pd0nwQfcyD1z44sJ71tg.png | Local: /medium-assets/15/img-04.png -->
-![](/medium-assets/15/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*u2Pd0nwQfcyD1z44sJ71tg.png | Local: /medium-backup-blog/medium-assets/15/img-04.png -->
+![](/medium-backup-blog/medium-assets/15/img-04.png)
 
 Click **Files**.
 
@@ -80,22 +80,22 @@ From here, you'll usually see categories and a list of uploads. If you're lookin
 
 In my case, for the version I wanted, I scrolled down and...
 
-<!-- Image Source: https://miro.medium.com/1*TPD7GLVFLrJmPaASlOtmmA.png | Local: /medium-assets/15/img-05.png -->
-![](/medium-assets/15/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*TPD7GLVFLrJmPaASlOtmmA.png | Local: /medium-backup-blog/medium-assets/15/img-05.png -->
+![](/medium-backup-blog/medium-assets/15/img-05.png)
 
 Yup. That's the one. [Click it](https://boardgamegeek.com/filepage/253921/mc-player-aid)!
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*97o1tp7R68U1klQPU7M1Jg.png | Local: /medium-assets/15/img-06.png -->
-![](/medium-assets/15/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*97o1tp7R68U1klQPU7M1Jg.png | Local: /medium-backup-blog/medium-assets/15/img-06.png -->
+![](/medium-backup-blog/medium-assets/15/img-06.png)
 
 **Small requirement:** you need to be **logged in** to download files.
 
 Click the hyperlink text and you will get the resource!
 
-<!-- Image Source: https://miro.medium.com/1*MJLeICxTNYDiojWb9PLdVw.png | Local: /medium-assets/15/img-07.png -->
-![](/medium-assets/15/img-07.png)
+<!-- Image Source: https://miro.medium.com/1*MJLeICxTNYDiojWb9PLdVw.png | Local: /medium-backup-blog/medium-assets/15/img-07.png -->
+![](/medium-backup-blog/medium-assets/15/img-07.png)
 
 And please do the polite internet thing:
 

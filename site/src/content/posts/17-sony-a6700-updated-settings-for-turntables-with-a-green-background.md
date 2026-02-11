@@ -5,7 +5,7 @@ permalink: "sony-a6700-updated-settings-for-turntables-with-a-green-background"
 order: 17
 publishedAt: "2025-12-27T21:46:35.000Z"
 readingTime: 4
-heroImage: "/medium-assets/17/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/17/img-01.png"
 sourceUrl: "https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160"
 ---
 <!-- Source: https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/sony-a6700-updated-settings-for-turntable
 
 A friend told me my footage looked green. And I was like: "No way, it's pale. It's fine." Then I touched the Tint slider _just to test_... and ho boy. It was green. Now I can't unsee it.
 
-<!-- Image Source: https://miro.medium.com/1*HPN0Ta20bqB_LMf_XCRbIQ.png | Local: /medium-assets/17/img-01.png -->
-![](/medium-assets/17/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*HPN0Ta20bqB_LMf_XCRbIQ.png | Local: /medium-backup-blog/medium-assets/17/img-01.png -->
+![](/medium-backup-blog/medium-assets/17/img-01.png)
 
 I already covered my general setup, lenses, and workflow in [Sony A6700 Settings for Unboxing and Figure Videos](https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac).
 
@@ -27,8 +27,8 @@ This post is the update for my **turntable videos with a green background**, and
 
 ## The "tint fix" that exposed the problem
 
-<!-- Image Source: https://miro.medium.com/1*d81ayCFBvElH5-jRmPuWrg.png | Local: /medium-assets/17/img-02.png -->
-![From normal settings to Tint +25](/medium-assets/17/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*d81ayCFBvElH5-jRmPuWrg.png | Local: /medium-backup-blog/medium-assets/17/img-02.png -->
+![From normal settings to Tint +25](/medium-backup-blog/medium-assets/17/img-02.png)
 
 When I pushed Tint from 0 to +25, it looked way more natural.
 
@@ -40,8 +40,8 @@ But fixing it in post is basically admitting defeat.
 
 So the goal became: **reduce the green cast in-camera** so I'm not constantly compensating in CapCut.
 
-<!-- Image Source: https://miro.medium.com/1*WpWud0QakZTkTq_8F4koRw.png | Local: /medium-assets/17/img-03.png -->
-![From normal settings to Tint +25](/medium-assets/17/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*WpWud0QakZTkTq_8F4koRw.png | Local: /medium-backup-blog/medium-assets/17/img-03.png -->
+![From normal settings to Tint +25](/medium-backup-blog/medium-assets/17/img-03.png)
 
 Looks way better and more natural. So let's talk about the camera settings to reduce the compensation.
 
@@ -151,21 +151,21 @@ Focus:
 
 ## RAW vs Current Footage
 
-<!-- Image Source: https://miro.medium.com/1*RE1-WjTzWYYDW3rTMEPLjw.png | Local: /medium-assets/17/img-04.png -->
-![](/medium-assets/17/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*RE1-WjTzWYYDW3rTMEPLjw.png | Local: /medium-backup-blog/medium-assets/17/img-04.png -->
+![](/medium-backup-blog/medium-assets/17/img-04.png)
 
-<!-- Image Source: https://miro.medium.com/1*yqA9yWoEvJ-5CvC0OPttxw.png | Local: /medium-assets/17/img-05.png -->
-![RAW vs Capcut Edited](/medium-assets/17/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*yqA9yWoEvJ-5CvC0OPttxw.png | Local: /medium-backup-blog/medium-assets/17/img-05.png -->
+![RAW vs Capcut Edited](/medium-backup-blog/medium-assets/17/img-05.png)
 
-<!-- Image Source: https://miro.medium.com/1*zJ6e8Ypax-U3vw81dc1kkg.png | Local: /medium-assets/17/img-06.png -->
-![Reduced Brightness and added Tint +5](/medium-assets/17/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*zJ6e8Ypax-U3vw81dc1kkg.png | Local: /medium-backup-blog/medium-assets/17/img-06.png -->
+![Reduced Brightness and added Tint +5](/medium-backup-blog/medium-assets/17/img-06.png)
 
 ---
 
 ## CapCut Settings
 
-<!-- Image Source: https://miro.medium.com/1*AsHgRJDXyUo4VTjBqcC5JA.png | Local: /medium-assets/17/img-07.png -->
-![](/medium-assets/17/img-07.png)
+<!-- Image Source: https://miro.medium.com/1*AsHgRJDXyUo4VTjBqcC5JA.png | Local: /medium-backup-blog/medium-assets/17/img-07.png -->
+![](/medium-backup-blog/medium-assets/17/img-07.png)
 
 This is what I'm using right now in CapCut as my "default-ish" adjustments. It's not magic. It's just consistent enough that I stop fighting my own footage.
 

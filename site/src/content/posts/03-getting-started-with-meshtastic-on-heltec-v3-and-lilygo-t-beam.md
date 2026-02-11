@@ -5,15 +5,15 @@ permalink: "getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam"
 order: 3
 publishedAt: "2025-11-14T21:14:19.000Z"
 readingTime: 3
-heroImage: "/medium-assets/03/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/03/img-01.png"
 sourceUrl: "https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8"
 ---
 <!-- Source: https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8 -->
 <!-- Published: 2025-11-14T17:14:19 -->
 # Getting Started with Meshtastic on Heltec V3 and LILYGO T-Beam
 
-<!-- Image Source: https://miro.medium.com/1*FRsOzyuY0VMuN2xXRyWrIQ.png | Local: /medium-assets/03/img-01.png -->
-![](/medium-assets/03/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*FRsOzyuY0VMuN2xXRyWrIQ.png | Local: /medium-backup-blog/medium-assets/03/img-01.png -->
+![](/medium-backup-blog/medium-assets/03/img-01.png)
 
 A friend gifted me a **Heltec V3**, and it immediately pulled me into the Meshtastic rabbit hole. The idea of mesh networks appeals to me. Communication that doesn't rely on cell towers or ISPs.
 
@@ -27,25 +27,25 @@ There are plenty of tutorials online, but many are a bit longer than necessary. 
 
 Go to the [Flasher Web Meshtatic](https://flasher.meshtastic.org/) page.
 
-<!-- Image Source: https://miro.medium.com/1*rUUmnThWmTUT94Qkbr3Qwg.png | Local: /medium-assets/03/img-02.png -->
-![](/medium-assets/03/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*rUUmnThWmTUT94Qkbr3Qwg.png | Local: /medium-backup-blog/medium-assets/03/img-02.png -->
+![](/medium-backup-blog/medium-assets/03/img-02.png)
 
 Select your device, in this case, LILYGO T-Beam.
 
-<!-- Image Source: https://miro.medium.com/1*T2HLqeD3oyK98eNeCsSB6g.png | Local: /medium-assets/03/img-03.png -->
-![](/medium-assets/03/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*T2HLqeD3oyK98eNeCsSB6g.png | Local: /medium-backup-blog/medium-assets/03/img-03.png -->
+![](/medium-backup-blog/medium-assets/03/img-03.png)
 
 I did confuse the T-Beam Supreme with my T-Beam (nothing else), so make sure to select the right one, otherwise it won't do anything.
 
 As for the version, a stable version is fine, but if you're feeling kinky, then try a newer one. You can upgrade later by doing this same procedure.
 
-<!-- Image Source: https://miro.medium.com/1*n_TO9HaO2p6ggIw0HaxQ-A.png | Local: /medium-assets/03/img-04.png -->
-![](/medium-assets/03/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*n_TO9HaO2p6ggIw0HaxQ-A.png | Local: /medium-backup-blog/medium-assets/03/img-04.png -->
+![](/medium-backup-blog/medium-assets/03/img-04.png)
 
 Then Flash the device!
 
-<!-- Image Source: https://miro.medium.com/1*cgMAdF7lrVN_cFGVinDtSw.png | Local: /medium-assets/03/img-05.png -->
-![](/medium-assets/03/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*cgMAdF7lrVN_cFGVinDtSw.png | Local: /medium-backup-blog/medium-assets/03/img-05.png -->
+![](/medium-backup-blog/medium-assets/03/img-05.png)
 
 And now finally, flashing time! Except first:
 
@@ -57,8 +57,8 @@ And now finally, flashing time! Except first:
 
 Hit the big green button and see the magic!
 
-<!-- Image Source: https://miro.medium.com/1*62vkTaylgNkoYkSo6D6qnA.png | Local: /medium-assets/03/img-06.png -->
-![](/medium-assets/03/img-06.png)
+<!-- Image Source: https://miro.medium.com/1*62vkTaylgNkoYkSo6D6qnA.png | Local: /medium-backup-blog/medium-assets/03/img-06.png -->
+![](/medium-backup-blog/medium-assets/03/img-06.png)
 
 If your device, like mine, doesn't have a screen, you'll be asked for a password. It's either 123456 or 123456789. Alternatively, you can check the serial information.
 

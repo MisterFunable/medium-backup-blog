@@ -5,7 +5,7 @@ permalink: "adding-multiple-instagram-accounts-to-your-n8n-automation"
 order: 21
 publishedAt: "2026-01-01T19:02:31.000Z"
 readingTime: 3
-heroImage: "/medium-assets/21/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/21/img-01.png"
 sourceUrl: "https://funable.medium.com/adding-multiple-instagram-accounts-to-your-n8n-automation-772fd26af4a1"
 ---
 <!-- Source: https://funable.medium.com/adding-multiple-instagram-accounts-to-your-n8n-automation-772fd26af4a1 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://funable.medium.com/adding-multiple-instagram-accounts-to-you
 
 Thanks to my canon event, I had to go multi-account.
 
-<!-- Image Source: https://miro.medium.com/1*_rjnuHLV8UbBXyOqJzM2zg.png | Local: /medium-assets/21/img-01.png -->
-![](/medium-assets/21/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*_rjnuHLV8UbBXyOqJzM2zg.png | Local: /medium-backup-blog/medium-assets/21/img-01.png -->
+![](/medium-backup-blog/medium-assets/21/img-01.png)
 
 For better or worse, you can have multiple Instagram accounts associated with one "main" account. That's perfect for my purposes, but it does mean the "simple" workflow needs to be able to connect to those accounts.
 
@@ -31,8 +31,8 @@ If you want the previous posts in the series:
 
 At this point, you probably already have **one account** connected in the Instagram API setup screen inside the Meta Developer portal.
 
-<!-- Image Source: https://miro.medium.com/1*rawSY-lHc1u1rXeE-uILDw.png | Local: /medium-assets/21/img-02.png -->
-![](/medium-assets/21/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*rawSY-lHc1u1rXeE-uILDw.png | Local: /medium-backup-blog/medium-assets/21/img-02.png -->
+![](/medium-backup-blog/medium-assets/21/img-02.png)
 
 To add another one, it's basically the same process again.
 
@@ -40,8 +40,8 @@ To add another one, it's basically the same process again.
 
 ## Walkthrough
 
-<!-- Image Source: https://miro.medium.com/1*_9DEIpUzVxWRYY-5Y0pd1g.png | Local: /medium-assets/21/img-03.png -->
-![](/medium-assets/21/img-03.png)
+<!-- Image Source: https://miro.medium.com/1*_9DEIpUzVxWRYY-5Y0pd1g.png | Local: /medium-backup-blog/medium-assets/21/img-03.png -->
+![](/medium-backup-blog/medium-assets/21/img-03.png)
 
 **Convert the new Instagram account to Business or Creator**
 
@@ -67,13 +67,13 @@ To add another one, it's basically the same process again.
 
 - Once you accept them, the account shows up in the list.
 
-<!-- Image Source: https://miro.medium.com/1*FlWXccJjBFJDzvV8F6JofQ.png | Local: /medium-assets/21/img-04.png -->
-![](/medium-assets/21/img-04.png)
+<!-- Image Source: https://miro.medium.com/1*FlWXccJjBFJDzvV8F6JofQ.png | Local: /medium-backup-blog/medium-assets/21/img-04.png -->
+![](/medium-backup-blog/medium-assets/21/img-04.png)
 
 Once done, you will see the account.
 
-<!-- Image Source: https://miro.medium.com/1*2TlUECGVfowRQpFWc-lNKg.png | Local: /medium-assets/21/img-05.png -->
-![](/medium-assets/21/img-05.png)
+<!-- Image Source: https://miro.medium.com/1*2TlUECGVfowRQpFWc-lNKg.png | Local: /medium-backup-blog/medium-assets/21/img-05.png -->
+![](/medium-backup-blog/medium-assets/21/img-05.png)
 
 ---
 

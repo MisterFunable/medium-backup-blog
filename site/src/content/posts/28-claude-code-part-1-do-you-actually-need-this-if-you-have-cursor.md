@@ -5,7 +5,7 @@ permalink: "claude-code-part-1-do-you-actually-need-this-if-you-have-cursor"
 order: 28
 publishedAt: "2026-01-24T01:57:00.000Z"
 readingTime: 7
-heroImage: "/medium-assets/28/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/28/img-01.png"
 sourceUrl: "https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4"
 ---
 <!-- Source: https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4 -->
@@ -16,8 +16,8 @@ sourceUrl: "https://funable.medium.com/claude-code-part-1-do-you-actually-need-t
 
 Cursor is great inside the editor. Claude Code is that same vibe, but in your terminal, and it can spin up parallel subagents to knock out tasks for you.
 
-<!-- Image Source: https://miro.medium.com/1*u11G_0ODJwAuvQh84SuogA.png | Local: /medium-assets/28/img-01.png -->
-![](/medium-assets/28/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*u11G_0ODJwAuvQh84SuogA.png | Local: /medium-backup-blog/medium-assets/28/img-01.png -->
+![](/medium-backup-blog/medium-assets/28/img-01.png)
 
 This post is **Part 1** (overview). Part 2 is the one with the "stop wasting tokens" habits and workflows, based on how I burned through my weekly limit in 3 days.
 

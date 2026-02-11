@@ -5,7 +5,7 @@ permalink: "getting-instagram-posts-with-n8n-the-simple-way-part-1"
 order: 9
 publishedAt: "2025-11-18T13:03:01.000Z"
 readingTime: 5
-heroImage: "/medium-assets/09/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/09/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/getting-instagram-posts-with-n8n-the-simple-way-part-1-c66cb5217054"
 ---
 <!-- Source: https://medium.com/@mister.funable/getting-instagram-posts-with-n8n-the-simple-way-part-1-c66cb5217054 -->
@@ -14,8 +14,8 @@ sourceUrl: "https://medium.com/@mister.funable/getting-instagram-posts-with-n8n-
 
 So I wanted to automate sharing my Instagram posts on X through N8N. But the Meta Developer portal setup is confusing, luckily you only need to do the bare minimum if you're pulling data from your personal account.
 
-<!-- Image Source: https://miro.medium.com/1*eFNrH9D5OsT_kKCbHzf2sg.png | Local: /medium-assets/09/img-01.png -->
-![**Chibi Filter**](/medium-assets/09/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*eFNrH9D5OsT_kKCbHzf2sg.png | Local: /medium-backup-blog/medium-assets/09/img-01.png -->
+![**Chibi Filter**](/medium-backup-blog/medium-assets/09/img-01.png)
 
 Thanks to this [Medium post](https://muhammadkasim.medium.com/fetch-account-media-using-instagram-api-5ab29c219ab3), that had the query I needed, turns out the basic setup is all you need. Here's the streamlined version.
 
@@ -65,8 +65,8 @@ That's it!
 
 The Instagram API Settings menu should look like this:
 
-<!-- Image Source: https://miro.medium.com/1*zhH_zloG0mIj6i1zhpnqDw.png | Local: /medium-assets/09/img-02.png -->
-![**But in English**](/medium-assets/09/img-02.png)
+<!-- Image Source: https://miro.medium.com/1*zhH_zloG0mIj6i1zhpnqDw.png | Local: /medium-backup-blog/medium-assets/09/img-02.png -->
+![**But in English**](/medium-backup-blog/medium-assets/09/img-02.png)
 
 You can stop there. Don't mess with callback URLs, redirect URIs, or any of that. The App token is all you need.
 

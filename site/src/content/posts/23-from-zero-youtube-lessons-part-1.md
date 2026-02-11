@@ -5,7 +5,7 @@ permalink: "from-zero-youtube-lessons-part-1"
 order: 23
 publishedAt: "2026-01-03T23:46:43.000Z"
 readingTime: 5
-heroImage: "/medium-assets/23/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/23/img-01.png"
 sourceUrl: "https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b"
 ---
 <!-- Source: https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b -->
@@ -16,8 +16,8 @@ sourceUrl: "https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f
 
 A series where I share what I've learned about growing a YouTube channel. Practical advice, personal takes, and lessons from experience. Some things you've probably heard before, others you haven't.
 
-<!-- Image Source: https://miro.medium.com/1*L_D6DW2wQdor7R6shP376g.png | Local: /medium-assets/23/img-01.png -->
-![](/medium-assets/23/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*L_D6DW2wQdor7R6shP376g.png | Local: /medium-backup-blog/medium-assets/23/img-01.png -->
+![](/medium-backup-blog/medium-assets/23/img-01.png)
 
 I hit 1,000 subs about a year after starting my channel, peaked around 1,780, then it died out... I also got a meme channel to the point of being monetizable, but that's another story.
 

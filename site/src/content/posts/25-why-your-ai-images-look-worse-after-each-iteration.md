@@ -5,7 +5,7 @@ permalink: "why-your-ai-images-look-worse-after-each-iteration"
 order: 25
 publishedAt: "2026-01-13T03:02:51.000Z"
 readingTime: 4
-heroImage: "/medium-assets/25/img-01.png"
+heroImage: "/medium-backup-blog/medium-assets/25/img-01.png"
 sourceUrl: "https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced"
 ---
 <!-- Source: https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced -->
@@ -16,8 +16,8 @@ sourceUrl: "https://funable.medium.com/why-your-ai-images-look-worse-after-each-
 
 So I've been playing with AI image generation for a while now. And I've been facing something really annoying more and more: the more I iterated over an image with prompts, the worse it looked.
 
-<!-- Image Source: https://miro.medium.com/1*pz_4F816o_fgKfhnnElM-g.png | Local: /medium-assets/25/img-01.png -->
-![](/medium-assets/25/img-01.png)
+<!-- Image Source: https://miro.medium.com/1*pz_4F816o_fgKfhnnElM-g.png | Local: /medium-backup-blog/medium-assets/25/img-01.png -->
+![](/medium-backup-blog/medium-assets/25/img-01.png)
 
 It was obvious that it was the AI and the iterations causing it, but I didn't know the name. And I didn't put much effort into googling beyond the first few results. Most of my searches just gave me stuff about hallucinations, which wasn't quite it.
 
@@ -25,8 +25,8 @@ So I did something different today. I asked Google AI for an answer rather than 
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*xh_t6xg2qXYGeLSpuq-8Kw.gif | Local: /medium-assets/25/img-02.gif -->
-![](/medium-assets/25/img-02.gif)
+<!-- Image Source: https://miro.medium.com/1*xh_t6xg2qXYGeLSpuq-8Kw.gif | Local: /medium-backup-blog/medium-assets/25/img-02.gif -->
+![](/medium-backup-blog/medium-assets/25/img-02.gif)
 
 ---
 
@@ -52,8 +52,8 @@ Even though I'm using the Nanobana Pro model (which I really like), it still suf
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*C1BtkgR0RosVGAV5jkkMXg.gif | Local: /medium-assets/25/img-03.gif -->
-![My expectations with just a bare idea of what I want](/medium-assets/25/img-03.gif)
+<!-- Image Source: https://miro.medium.com/1*C1BtkgR0RosVGAV5jkkMXg.gif | Local: /medium-backup-blog/medium-assets/25/img-03.gif -->
+![My expectations with just a bare idea of what I want](/medium-backup-blog/medium-assets/25/img-03.gif)
 
 ---
 
@@ -71,8 +71,8 @@ And there you have it: a correct answer but poor results.
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*naWhAImfckEthrpYwicr-A.gif | Local: /medium-assets/25/img-04.gif -->
-![I WANT CUTE ANIME GIRL](/medium-assets/25/img-04.gif)
+<!-- Image Source: https://miro.medium.com/1*naWhAImfckEthrpYwicr-A.gif | Local: /medium-backup-blog/medium-assets/25/img-04.gif -->
+![I WANT CUTE ANIME GIRL](/medium-backup-blog/medium-assets/25/img-04.gif)
 
 ---
 
@@ -115,18 +115,18 @@ sketchy, harsh shadows.
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*TWKaQoe9PeLndDhOrFtghw.gif | Local: /medium-assets/25/img-05.gif -->
-![](/medium-assets/25/img-05.gif)
+<!-- Image Source: https://miro.medium.com/1*TWKaQoe9PeLndDhOrFtghw.gif | Local: /medium-backup-blog/medium-assets/25/img-05.gif -->
+![](/medium-backup-blog/medium-assets/25/img-05.gif)
 
 ---
 
 ## Recovering Already-Generated Images
 
-<!-- Image Source: https://miro.medium.com/1*QA-2IhlQECjBaHRU62438A.jpeg | Local: /medium-assets/25/img-06.jpg -->
-![](/medium-assets/25/img-06.jpg)
+<!-- Image Source: https://miro.medium.com/1*QA-2IhlQECjBaHRU62438A.jpeg | Local: /medium-backup-blog/medium-assets/25/img-06.jpg -->
+![](/medium-backup-blog/medium-assets/25/img-06.jpg)
 
-<!-- Image Source: https://miro.medium.com/1*F1s-DY8cze6LNEXEJy6hZA.png | Local: /medium-assets/25/img-07.png -->
-![Context eventually.](/medium-assets/25/img-07.png)
+<!-- Image Source: https://miro.medium.com/1*F1s-DY8cze6LNEXEJy6hZA.png | Local: /medium-backup-blog/medium-assets/25/img-07.png -->
+![Context eventually.](/medium-backup-blog/medium-assets/25/img-07.png)
 
 If you've already gone through a few iterations and your image looks rough, here are some prompts to try to recover it:
 
@@ -155,8 +155,8 @@ The key is being explicit about what you DON'T want to change, not just what you
 
 ---
 
-<!-- Image Source: https://miro.medium.com/1*PUOm3VlCyXR1dmv3Gztl6Q.gif | Local: /medium-assets/25/img-08.gif -->
-![](/medium-assets/25/img-08.gif)
+<!-- Image Source: https://miro.medium.com/1*PUOm3VlCyXR1dmv3Gztl6Q.gif | Local: /medium-backup-blog/medium-assets/25/img-08.gif -->
+![](/medium-backup-blog/medium-assets/25/img-08.gif)
 
 ---
 

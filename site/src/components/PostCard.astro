@@ -7,6 +7,7 @@ interface Props {
   featured?: boolean;
 }
 
+const base = import.meta.env.BASE_URL;
 const { post, featured = false } = Astro.props;
 const dateLabel = formatDate(post.publishedAt);
 const readingLabel = `${post.readingTime} min read`;
@@ -18,7 +19,7 @@ const layoutClasses = featured
 <article class={`post-card glass-card ${layoutClasses}`}>
   <a
     class="post-card__overlay"
-    href={`/posts/${post.permalink}`}
+    href={`${base}posts/${post.permalink}`}
     aria-label={`Read ${post.title}`}
   >
     <span class="sr-only">Read post</span>
@@ -54,7 +55,7 @@ const layoutClasses = featured
     <h3 class={`font-semibold text-white ${featured ? 'text-3xl' : 'text-2xl'}`}>
       <a
         class="focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-lime-300"
-        href={`/posts/${post.permalink}`}
+        href={`${base}posts/${post.permalink}`}
       >
         {post.title}
       </a>
