@@ -131,6 +131,16 @@ export const postsIndex: PostSummary[] = [
     "sourceUrl": "https://medium.com/@mister.funable/about-prompts-ai-and-playing-with-nanobana-pro-3737479e6f53"
   },
   {
+    "order": 12,
+    "permalink": "making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio",
+    "title": "Making a Local Web Server with the DFRobot FireBeetle 2 ESP32-E PlatformIO",
+    "description": "Making a Local Web Server with the DFRobot FireBeetle 2 ESP32 E and PlatformIO Without any sensors or screens, a small web server as first project seemed fine. If the Arduino IDE f",
+    "heroImage": "/medium-assets/12/img-01.png",
+    "publishedAt": "2025-12-02T15:45:03.000Z",
+    "readingTime": 4,
+    "sourceUrl": "https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab"
+  },
+  {
     "order": 13,
     "permalink": "my-favorite-figmas-2025",
     "title": "My Favorite Figmas — 2025",
@@ -139,5 +149,165 @@ export const postsIndex: PostSummary[] = [
     "publishedAt": "2025-11-27T02:16:54.000Z",
     "readingTime": 2,
     "sourceUrl": "https://medium.com/@mister.funable/my-favorite-figmas-2025-a4dd70db6be4"
+  },
+  {
+    "order": 13,
+    "permalink": "part-1-designing-a-mascotlogo-my-journey-with-ai-image-generation",
+    "title": "Part 1 — Designing a MascotLogo My Journey With AI Image Generation",
+    "description": "Part 1 Designing a Mascot/Logo: My Journey With AI Image Generation With the release of Nanobana Pro , I wanted to see how far I could push my little creative experiments. So far, ",
+    "heroImage": "/medium-assets/13/img-01.png",
+    "publishedAt": "2025-12-05T10:37:56.000Z",
+    "readingTime": 3,
+    "sourceUrl": "https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05"
+  },
+  {
+    "order": 14,
+    "permalink": "backing-up-n8n-when-the-data-lives-in-a-docker-volume",
+    "title": "Backing Up N8N When the Data Lives in a Docker Volume",
+    "description": "Backing Up N8N When the Data Lives in a Docker Volume I got a new MacBook and wanted my N8N instance to come with me. So I needed to move my workflows and credentials under n8n",
+    "heroImage": "/medium-assets/14/img-01.png",
+    "publishedAt": "2025-12-06T18:11:55.000Z",
+    "readingTime": 5,
+    "sourceUrl": "https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172"
+  },
+  {
+    "order": 15,
+    "permalink": "boardgamegeek-player-resources-aids",
+    "title": "BoardGameGeek Player Resources Aids",
+    "description": "BoardGameGeek Player Resources / Aids I used to think BoardGameGeek (BGG) was basically: forums, deals, and a place to track your collection. Which is true. But it's also a big vau",
+    "heroImage": "/medium-assets/15/img-01.png",
+    "publishedAt": "2025-12-21T22:43:52.000Z",
+    "readingTime": 3,
+    "sourceUrl": "https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455"
+  },
+  {
+    "order": 16,
+    "permalink": "marvel-champions-resources",
+    "title": "Marvel Champions Resources",
+    "description": "Marvel Champions Resources I already have my own page where I dump links and notes, but I wanted something simpler I can share with friends who are just getting into the game. So h",
+    "heroImage": "/medium-assets/16/img-01.png",
+    "publishedAt": "2025-12-21T22:57:54.000Z",
+    "readingTime": 2,
+    "sourceUrl": "https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7"
+  },
+  {
+    "order": 17,
+    "permalink": "sony-a6700-updated-settings-for-turntables-with-a-green-background",
+    "title": "Sony A6700 Updated Settings for Turntables with a Green Background",
+    "description": "Sony A6700 Updated Settings for Turntables with a Green Background A friend told me my footage looked green. And I was like: \"No way, it's pale. It's fine.\" Then I touched the Tint",
+    "heroImage": "/medium-assets/17/img-01.png",
+    "publishedAt": "2025-12-27T21:46:35.000Z",
+    "readingTime": 4,
+    "sourceUrl": "https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160"
+  },
+  {
+    "order": 18,
+    "permalink": "a-silly-little-osascript-utility-that-types-notes-for-you",
+    "title": "A Silly Little osascript Utility That Types Notes For You",
+    "description": "A Silly Little osascript Utility That Types Notes For You I went down a rabbit hole the other day: \"How do people make a tiny local bot that can interact with a single chat app win",
+    "heroImage": "/medium-assets/18/img-01.png",
+    "publishedAt": "2025-12-29T18:11:37.000Z",
+    "readingTime": 4,
+    "sourceUrl": "https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2"
+  },
+  {
+    "order": 19,
+    "permalink": "how-to-design-your-medium-profile",
+    "title": "How to Design Your Medium Profile",
+    "description": "How to Customize Your Medium Profile Back when I made my main account, Medium profiles were pretty barebones, so I never bothered customizing it. But with this one (where I can wri",
+    "heroImage": "/medium-assets/19/img-01.png",
+    "publishedAt": "2025-12-30T02:36:42.000Z",
+    "readingTime": 2,
+    "sourceUrl": "https://funable.medium.com/how-to-design-your-medium-profile-47d93edd7e9d"
+  },
+  {
+    "order": 20,
+    "permalink": "getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part",
+    "title": "Getting Instagram Posts with N8N (The Simple Way Part 2 The Final Part)",
+    "description": "Getting Instagram Posts with N8N (The Simple Way Part 2: The Final Part) And finally... this is the post where we actually get to Twitter (X). The workflow runs on a schedule, chec",
+    "heroImage": "/medium-assets/20/img-01.png",
+    "publishedAt": "2025-12-31T16:43:34.000Z",
+    "readingTime": 2,
+    "sourceUrl": "https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74"
+  },
+  {
+    "order": 21,
+    "permalink": "adding-multiple-instagram-accounts-to-your-n8n-automation",
+    "title": "Adding Multiple Instagram Accounts to Your n8n Automation",
+    "description": "Adding Multiple Instagram Accounts to Your n8n Automation Thanks to my canon event, I had to go multi account. For better or worse, you can have multiple Instagram accounts associa",
+    "heroImage": "/medium-assets/21/img-01.png",
+    "publishedAt": "2026-01-01T19:02:31.000Z",
+    "readingTime": 3,
+    "sourceUrl": "https://funable.medium.com/adding-multiple-instagram-accounts-to-your-n8n-automation-772fd26af4a1"
+  },
+  {
+    "order": 22,
+    "permalink": "from-zero-youtube-lessons-part-0",
+    "title": "From Zero — YouTube Lessons Part 0",
+    "description": "From Zero YouTube Lessons Part 0 Moving On and Starting Over My channel got removed, and I don't want this to be the \"I peaked in high school\" kind of post. I want to learn and",
+    "heroImage": "/medium-assets/22/img-01.png",
+    "publishedAt": "2026-01-03T18:56:44.000Z",
+    "readingTime": 4,
+    "sourceUrl": "https://funable.medium.com/from-zero-youtube-lessons-part-0-822bb8a9c883"
+  },
+  {
+    "order": 23,
+    "permalink": "from-zero-youtube-lessons-part-1",
+    "title": "From Zero — YouTube Lessons Part 1",
+    "description": "From Zero YouTube Lessons Part 1 The Hell Known As YouTube A series where I share what I've learned about growing a YouTube channel. Practical advice, personal takes, and lessons f",
+    "heroImage": "/medium-assets/23/img-01.png",
+    "publishedAt": "2026-01-03T23:46:43.000Z",
+    "readingTime": 5,
+    "sourceUrl": "https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b"
+  },
+  {
+    "order": 24,
+    "permalink": "part-3-designing-a-mascotlogo-a-fresh-start",
+    "title": "Part 3— Designing a MascotLogo A Fresh Start",
+    "description": "Part 3— Designing a Mascot/Logo: A Fresh Start Part 2 will be delayed because I had to make this, and it's way faster to do it right away. In this post I go through the \"creative",
+    "heroImage": "/medium-assets/24/img-01.png",
+    "publishedAt": "2026-01-06T00:15:20.000Z",
+    "readingTime": 7,
+    "sourceUrl": "https://funable.medium.com/part-3-designing-a-mascot-logo-a-fresh-start-45f17906c0d2"
+  },
+  {
+    "order": 25,
+    "permalink": "why-your-ai-images-look-worse-after-each-iteration",
+    "title": "Why Your AI Images Look Worse After Each Iteration",
+    "description": "Why Your AI Images Look Worse After Each Iteration And What To Do About It So I've been playing with AI image generation for a while now. And I've been facing something really anno",
+    "heroImage": "/medium-assets/25/img-01.png",
+    "publishedAt": "2026-01-13T03:02:51.000Z",
+    "readingTime": 4,
+    "sourceUrl": "https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced"
+  },
+  {
+    "order": 26,
+    "permalink": "uploading-instagram-videos-to-youtube-with-n8n",
+    "title": "Uploading Instagram Videos to YouTube with n8n",
+    "description": "Uploading Instagram Videos to YouTube with n8n After the Instagram to Twitter workflow, this one was kind of inevitable. Most of my latest content goes to Instagram first since I c",
+    "heroImage": "/medium-assets/26/img-01.png",
+    "publishedAt": "2026-01-17T18:48:09.000Z",
+    "readingTime": 4,
+    "sourceUrl": "https://funable.medium.com/uploading-instagram-videos-to-youtube-with-n8n-6df5ad3c2523"
+  },
+  {
+    "order": 27,
+    "permalink": "side-notes-1-what-yu-gi-oh-taught-me-about-leadership",
+    "title": "Side Notes #1 What Yu-Gi-Oh Taught Me About Leadership",
+    "description": "Side Notes 1: What Yu Gi Oh Taught Me About Leadership A series of random thoughts and perceptions I had a recent realization: making people \"shine,\" as one of my clients put it, i",
+    "heroImage": "/medium-assets/27/img-01.png",
+    "publishedAt": "2026-01-23T04:49:49.000Z",
+    "readingTime": 7,
+    "sourceUrl": "https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7"
+  },
+  {
+    "order": 28,
+    "permalink": "claude-code-part-1-do-you-actually-need-this-if-you-have-cursor",
+    "title": "Claude Code (Part 1) Do You Actually Need This If You Have Cursor",
+    "description": "Claude Code (Part 1): Do You Actually Need This If You Have Cursor? What It Is, How It Fits Next to Cursor, and How to Track Usage Cursor is great inside the editor. Claude Code is",
+    "heroImage": "/medium-assets/28/img-01.png",
+    "publishedAt": "2026-01-24T01:57:00.000Z",
+    "readingTime": 7,
+    "sourceUrl": "https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4"
   }
 ];
