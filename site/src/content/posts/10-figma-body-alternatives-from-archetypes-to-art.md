@@ -3,7 +3,7 @@ title: "Figma Body Alternatives From Archetypes to… Art"
 description: "Figma Body Alternatives: From Archetypes to... Art Exchanging accessories between Figma figures is common. But what about swapping bodies? Are there alternatives to the standard Ar"
 permalink: "figma-body-alternatives-from-archetypes-to-art"
 order: 10
-publishedAt: "2025-11-20T02:02:07.000Z"
+publishedAt: "2025-11-20T03:02:07.000Z"
 readingTime: 6
 heroImage: "/medium-assets/10/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b"

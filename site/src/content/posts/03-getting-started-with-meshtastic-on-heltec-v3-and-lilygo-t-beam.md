@@ -3,7 +3,7 @@ title: "Getting Started with Meshtastic on Heltec V3 and LILYGO T-Beam"
 description: "Getting Started with Meshtastic on Heltec V3 and LILYGO T Beam A friend gifted me a Heltec V3 , and it immediately pulled me into the Meshtastic rabbit hole. The idea of mesh netwo"
 permalink: "getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam"
 order: 3
-publishedAt: "2025-11-14T20:14:19.000Z"
+publishedAt: "2025-11-14T21:14:19.000Z"
 readingTime: 3
 heroImage: "/medium-assets/03/img-01.png"
 sourceUrl: "https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8"

@@ -3,7 +3,7 @@ title: "Meshtastic Questions I Had After Getting Started"
 description: "Meshtastic Questions I Had After Getting Started After flashing my first Meshtastic device, I had about a hundred questions. Here are the ones I actually figured out, organized fro"
 permalink: "meshtastic-questions-i-had-after-getting-started"
 order: 4
-publishedAt: "2025-11-14T21:19:05.000Z"
+publishedAt: "2025-11-14T22:19:05.000Z"
 readingTime: 6
 heroImage: "/medium-assets/04/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae"

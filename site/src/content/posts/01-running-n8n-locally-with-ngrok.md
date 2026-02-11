@@ -3,7 +3,7 @@ title: "Running N8N Locally with Ngrok"
 description: "Running N8N Locally with Ngrok If you've made it past the basics of N8N, this guide will show you how to run it locally and make it accessible via a public URL using a tunnel servi"
 permalink: "running-n8n-locally-with-ngrok"
 order: 1
-publishedAt: "2025-10-27T06:24:44.000Z"
+publishedAt: "2025-10-27T07:24:44.000Z"
 readingTime: 2
 heroImage: "/medium-assets/01/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/running-n8n-locally-with-ngrok-734af69e1530"

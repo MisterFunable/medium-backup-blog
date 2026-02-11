@@ -3,7 +3,7 @@ title: "Setting Up a Local Meshtastic Message Forwarder"
 description: "Setting Up a Local Meshtastic Message Forwarder After getting my Meshtastic devices running, I wanted to do more than just send messages through the app. The goal: set up a local f"
 permalink: "setting-up-a-local-meshtastic-message-forwarder"
 order: 5
-publishedAt: "2025-11-14T22:07:25.000Z"
+publishedAt: "2025-11-14T23:07:25.000Z"
 readingTime: 6
 heroImage: "/medium-assets/05/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e"

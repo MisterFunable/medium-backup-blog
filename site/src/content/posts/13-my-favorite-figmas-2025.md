@@ -3,7 +3,7 @@ title: "My Favorite Figmas — 2025"
 description: "My Favorite Figmas 2025 With over 160+ Figmas, of course I have some favorites. I meant to do a video about this, but if I don't... at least I have this post! You can tell a"
 permalink: "my-favorite-figmas-2025"
 order: 13
-publishedAt: "2025-11-27T01:16:54.000Z"
+publishedAt: "2025-11-27T02:16:54.000Z"
 readingTime: 2
 heroImage: "/medium-assets/13/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/my-favorite-figmas-2025-a4dd70db6be4"

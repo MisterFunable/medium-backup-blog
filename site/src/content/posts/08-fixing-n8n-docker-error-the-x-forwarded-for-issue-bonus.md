@@ -3,7 +3,7 @@ title: "Fixing N8N Docker Error The X-Forwarded-For Issue + Bonus"
 description: "Fixing N8N Docker Error: The X Forwarded For Issue + Bonus So you're running N8N locally in Docker, maybe conveniently for this post using Ngrok to expose it, and suddenly your log"
 permalink: "fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus"
 order: 8
-publishedAt: "2025-11-18T05:00:06.000Z"
+publishedAt: "2025-11-18T06:00:06.000Z"
 readingTime: 4
 heroImage: "/medium-assets/08/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a"

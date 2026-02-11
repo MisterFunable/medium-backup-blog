@@ -3,7 +3,7 @@ title: "How (Not) to Work with Local Files in N8N"
 description: "How (Not) to Work with Local Files in N8N I was wondering if it was worth automating video uploads through n8n, so I decided to set up a quick test configuration. I used the Read/W"
 permalink: "how-not-to-work-with-local-files-in-n8n"
 order: 2
-publishedAt: "2025-11-10T16:03:26.000Z"
+publishedAt: "2025-11-10T17:03:26.000Z"
 readingTime: 2
 heroImage: "/medium-assets/02/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2"

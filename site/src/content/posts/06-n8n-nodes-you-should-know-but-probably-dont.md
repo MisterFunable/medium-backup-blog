@@ -3,7 +3,7 @@ title: "N8N Nodes You Should Know (But Probably Don’t)"
 description: "N8N Nodes You Should Know (But Probably Don't) Everyone talks about AI agents and the amazing workflows that you can automate with N8N, which is cool. I get it. But can we talk abo"
 permalink: "n8n-nodes-you-should-know-but-probably-dont"
 order: 6
-publishedAt: "2025-11-16T03:17:55.000Z"
+publishedAt: "2025-11-16T04:17:55.000Z"
 readingTime: 8
 heroImage: "/medium-assets/06/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/n8n-nodes-you-should-know-but-probably-dont-06d61b77c457"

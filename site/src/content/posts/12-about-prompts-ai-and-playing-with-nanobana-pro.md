@@ -3,7 +3,7 @@ title: "About Prompts, AI and Playing with Nanobana Pro"
 description: "About Prompts, AI and Playing with Nanobana Pro I was writing about the design progression of the character I use to represent my stuff, but I found it more interesting to actually"
 permalink: "about-prompts-ai-and-playing-with-nanobana-pro"
 order: 12
-publishedAt: "2025-11-22T01:02:16.000Z"
+publishedAt: "2025-11-22T02:02:16.000Z"
 readingTime: 3
 heroImage: "/medium-assets/12/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/about-prompts-ai-and-playing-with-nanobana-pro-3737479e6f53"

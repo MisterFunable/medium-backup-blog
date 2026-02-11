@@ -3,7 +3,7 @@ title: "Getting Instagram Posts with N8N (The Simple Way Part 1)"
 description: "Getting Instagram Posts with N8N (The Simple Way Part 1) So I wanted to automate sharing my Instagram posts on X through N8N. But the Meta Developer portal setup is confusing, luck"
 permalink: "getting-instagram-posts-with-n8n-the-simple-way-part-1"
 order: 9
-publishedAt: "2025-11-18T12:03:01.000Z"
+publishedAt: "2025-11-18T13:03:01.000Z"
 readingTime: 5
 heroImage: "/medium-assets/09/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/getting-instagram-posts-with-n8n-the-simple-way-part-1-c66cb5217054"

@@ -3,7 +3,7 @@ title: "Sony A6700 Settings for Unboxing and Figure Videos"
 description: "Sony A6700 Settings for Unboxing and Figure Videos I do unboxing videos and music videos of collectibles for fun. Nothing fancy, but I try to get as close as possible in quality to"
 permalink: "sony-a6700-settings-for-unboxing-and-figure-videos"
 order: 7
-publishedAt: "2025-11-17T04:53:09.000Z"
+publishedAt: "2025-11-17T05:53:09.000Z"
 readingTime: 7
 heroImage: "/medium-assets/07/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac"

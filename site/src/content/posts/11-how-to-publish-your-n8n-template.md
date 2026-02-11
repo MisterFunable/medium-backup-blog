@@ -3,7 +3,7 @@ title: "How to Publish Your n8n Template"
 description: "How to Publish Your n8n Template I submitted a template a few months ago (Auto Translate YouTube Video Content with Google Gemini AI) and I'm currently doing the process again for "
 permalink: "how-to-publish-your-n8n-template"
 order: 11
-publishedAt: "2025-11-21T06:18:40.000Z"
+publishedAt: "2025-11-21T07:18:40.000Z"
 readingTime: 4
 heroImage: "/medium-assets/11/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/how-to-publish-your-n8n-template-375832d8efd7"
