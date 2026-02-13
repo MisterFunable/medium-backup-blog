@@ -7,6 +7,8 @@ publishedAt: "2025-12-06T18:11:55.000Z"
 readingTime: 5
 heroImage: "/medium-backup-blog/medium-assets/14/img-01.png"
 sourceUrl: "https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172 -->
 <!-- Published: 2025-12-06T14:11:55 -->

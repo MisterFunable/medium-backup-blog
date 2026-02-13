@@ -7,6 +7,8 @@ publishedAt: "2026-01-03T23:46:43.000Z"
 readingTime: 5
 heroImage: "/medium-backup-blog/medium-assets/23/img-01.png"
 sourceUrl: "https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b -->
 <!-- Published: 2026-01-03T19:46:43 -->

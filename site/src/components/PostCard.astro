@@ -74,5 +74,12 @@ const readingLabel = `${post.readingTime} min read`;
     <p class="text-base text-slate-300">
       {post.description}
     </p>
+    {post.tags.length > 0 && (
+      <div class="flex flex-wrap gap-2 pt-1">
+        {post.tags.map((tag) => (
+          <span class="rounded-full border border-white/10 bg-white/5 px-2.5 py-0.5 text-xs text-slate-400">{tag}</span>
+        ))}
+      </div>
+    )}
   </div>
 </article>

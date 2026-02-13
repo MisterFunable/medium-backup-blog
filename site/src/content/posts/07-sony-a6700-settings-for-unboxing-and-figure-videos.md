@@ -7,6 +7,8 @@ publishedAt: "2025-11-17T05:53:09.000Z"
 readingTime: 7
 heroImage: "/medium-backup-blog/medium-assets/07/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac -->
 <!-- Published: 2025-11-17T01:53:09 -->

@@ -7,6 +7,8 @@ publishedAt: "2025-12-21T22:57:54.000Z"
 readingTime: 2
 heroImage: "/medium-backup-blog/medium-assets/16/img-01.png"
 sourceUrl: "https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7 -->
 <!-- Published: 2025-12-21T18:57:54 -->

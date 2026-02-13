@@ -7,6 +7,8 @@ publishedAt: "2025-11-14T22:19:05.000Z"
 readingTime: 6
 heroImage: "/medium-backup-blog/medium-assets/04/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae -->
 <!-- Published: 2025-11-14T18:19:05 -->

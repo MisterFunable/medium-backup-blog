@@ -7,6 +7,8 @@ publishedAt: "2026-01-23T04:49:49.000Z"
 readingTime: 7
 heroImage: "/medium-backup-blog/medium-assets/27/img-01.png"
 sourceUrl: "https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7 -->
 <!-- Published: 2026-01-23T00:49:49 -->

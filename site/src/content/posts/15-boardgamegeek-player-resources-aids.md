@@ -7,6 +7,8 @@ publishedAt: "2025-12-21T22:43:52.000Z"
 readingTime: 3
 heroImage: "/medium-backup-blog/medium-assets/15/img-01.png"
 sourceUrl: "https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455 -->
 <!-- Published: 2025-12-21T18:43:52 -->

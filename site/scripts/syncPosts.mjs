@@ -62,6 +62,7 @@ const parseFilename = (filename) => {
 const extractMetadata = (markdown) => {
   const sourceMatch = markdown.match(/<!--\s*Source:\s*(.*?)\s*-->/);
   const publishedMatch = markdown.match(/<!--\s*Published:\s*(.*?)\s*-->/);
+  const tagsMatch = markdown.match(/<!--\s*Tags:\s*(.*?)\s*-->/);
   const imageRegex = createImageRegex();
   const firstImageMatch = imageRegex.exec(markdown);
 
@@ -69,11 +70,15 @@ const extractMetadata = (markdown) => {
   const publishedAtRaw = publishedMatch ? publishedMatch[1].trim() : '';
   const publishedAt = new Date(publishedAtRaw);
   const heroImageRelative = firstImageMatch ? firstImageMatch[2].replace(/^images\//, '') : null;
+  const tags = tagsMatch
+    ? tagsMatch[1].split(',').map((t) => t.trim()).filter(Boolean)
+    : [];
 
   return {
     sourceUrl,
     publishedAt: Number.isNaN(publishedAt.getTime()) ? null : publishedAt,
     heroImageRelative,
+    tags,
   };
 };
 
@@ -107,6 +112,9 @@ const rewriteMarkdownImages = async (markdown) => {
 };
 
 const buildFrontmatter = (data) => {
+  const tagsYaml = data.tags.length
+    ? `\ntags:\n${data.tags.map((t) => `  - ${yamlString(t)}`).join('\n')}`
+    : '\ntags: []';
   const lines = [
     '---',
     `title: ${yamlString(data.title)}`,
@@ -117,6 +125,7 @@ const buildFrontmatter = (data) => {
     `readingTime: ${data.readingTime}`,
     `heroImage: ${yamlString(data.heroImage || '')}`,
     `sourceUrl: ${yamlString(data.sourceUrl)}`,
+    tagsYaml,
     '---',
     '',
   ];
@@ -136,7 +145,7 @@ async function main() {
     const raw = await fs.readFile(sourcePath, 'utf-8');
 
     const { order, slug, label } = parseFilename(file);
-    const { sourceUrl, publishedAt, heroImageRelative } = extractMetadata(raw);
+    const { sourceUrl, publishedAt, heroImageRelative, tags } = extractMetadata(raw);
     const rewrittenMarkdown = await rewriteMarkdownImages(raw);
 
     const excerpt = plainExcerpt(rewrittenMarkdown);
@@ -153,6 +162,7 @@ async function main() {
       readingTime,
       heroImage,
       sourceUrl,
+      tags,
     });
 
     const destFilename = `${String(order).padStart(2, '0')}-${slug}.md`;
@@ -167,6 +177,7 @@ async function main() {
       publishedAt: publishedAt ? publishedAt.toISOString() : '',
       readingTime,
       sourceUrl,
+      tags,
     });
   }
 
@@ -180,6 +191,7 @@ async function main() {
   publishedAt: string;
   readingTime: number;
   sourceUrl: string;
+  tags: string[];
 };
 
 export const postsIndex: PostSummary[] = ${JSON.stringify(sorted, null, 2)};`;

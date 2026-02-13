@@ -7,6 +7,8 @@ publishedAt: "2025-11-20T03:02:07.000Z"
 readingTime: 6
 heroImage: "/medium-backup-blog/medium-assets/10/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b -->
 <!-- Published: 2025-11-19T23:02:07 -->

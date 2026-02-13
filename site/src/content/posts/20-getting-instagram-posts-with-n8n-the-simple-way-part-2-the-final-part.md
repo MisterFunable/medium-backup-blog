@@ -7,6 +7,8 @@ publishedAt: "2025-12-31T16:43:34.000Z"
 readingTime: 2
 heroImage: "/medium-backup-blog/medium-assets/20/img-01.png"
 sourceUrl: "https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74 -->
 <!-- Published: 2025-12-31T12:43:34 -->

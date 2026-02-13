@@ -7,6 +7,8 @@ publishedAt: "2025-11-18T06:00:06.000Z"
 readingTime: 4
 heroImage: "/medium-backup-blog/medium-assets/08/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a -->
 <!-- Published: 2025-11-18T02:00:06 -->

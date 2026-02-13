@@ -7,6 +7,8 @@ publishedAt: "2025-11-14T23:07:25.000Z"
 readingTime: 6
 heroImage: "/medium-backup-blog/medium-assets/05/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e -->
 <!-- Published: 2025-11-14T19:07:25 -->

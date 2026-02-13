@@ -228,6 +228,8 @@ def build_markdown_payload(
     metadata_lines = [f"<!-- Source: {source_url} -->"]
     if article.published_at:
         metadata_lines.append(f"<!-- Published: {article.published_at.isoformat()} -->")
+    if article.tags:
+        metadata_lines.append(f"<!-- Tags: {', '.join(article.tags)} -->")
     metadata_lines.append("")  # blank line before actual markdown
 
     raw_body = (article.markdown or "").strip()

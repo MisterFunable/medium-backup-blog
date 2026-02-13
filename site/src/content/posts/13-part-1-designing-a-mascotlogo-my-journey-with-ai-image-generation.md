@@ -7,6 +7,8 @@ publishedAt: "2025-12-05T10:37:56.000Z"
 readingTime: 3
 heroImage: "/medium-backup-blog/medium-assets/13/img-01.png"
 sourceUrl: "https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05 -->
 <!-- Published: 2025-12-05T06:37:56 -->

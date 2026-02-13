@@ -7,6 +7,8 @@ publishedAt: "2025-11-14T21:14:19.000Z"
 readingTime: 3
 heroImage: "/medium-backup-blog/medium-assets/03/img-01.png"
 sourceUrl: "https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8"
+
+tags: []
 ---
 <!-- Source: https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8 -->
 <!-- Published: 2025-11-14T17:14:19 -->

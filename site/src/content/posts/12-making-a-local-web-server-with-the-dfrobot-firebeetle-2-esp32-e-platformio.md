@@ -7,6 +7,8 @@ publishedAt: "2025-12-02T15:45:03.000Z"
 readingTime: 4
 heroImage: "/medium-backup-blog/medium-assets/12/img-01.png"
 sourceUrl: "https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab -->
 <!-- Published: 2025-12-02T11:45:03 -->

@@ -7,6 +7,8 @@ publishedAt: "2026-01-06T00:15:20.000Z"
 readingTime: 7
 heroImage: "/medium-backup-blog/medium-assets/24/img-01.png"
 sourceUrl: "https://funable.medium.com/part-3-designing-a-mascot-logo-a-fresh-start-45f17906c0d2"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/part-3-designing-a-mascot-logo-a-fresh-start-45f17906c0d2 -->
 <!-- Published: 2026-01-05T20:15:20 -->

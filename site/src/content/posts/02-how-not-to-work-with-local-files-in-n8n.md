@@ -7,6 +7,8 @@ publishedAt: "2025-11-10T17:03:26.000Z"
 readingTime: 2
 heroImage: "/medium-backup-blog/medium-assets/02/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2 -->
 <!-- Published: 2025-11-10T13:03:26 -->

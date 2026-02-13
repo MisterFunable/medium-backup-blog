@@ -21,7 +21,7 @@ export async function getStaticPaths() {
 const base = import.meta.env.BASE_URL;
 const { entry } = Astro.props as Props;
 const { Content, headings } = await entry.render();
-const { title, heroImage, publishedAt, readingTime, sourceUrl } = entry.data;
+const { title, heroImage, publishedAt, readingTime, sourceUrl, tags } = entry.data;
 
 const currentIndex = postsIndex.findIndex((p) => p.permalink === entry.data.permalink);
 const prevPost = currentIndex > 0 ? postsIndex[currentIndex - 1] : null;
@@ -42,6 +42,13 @@ const nextPost = currentIndex < postsIndex.length - 1 ? postsIndex[currentIndex 
           View original on Medium
         </a>
       </div>
+      {tags.length > 0 && (
+        <div class="flex flex-wrap gap-2">
+          {tags.map((tag) => (
+            <span class="rounded-full border border-white/10 bg-white/5 px-3 py-1 text-xs text-slate-400">{tag}</span>
+          ))}
+        </div>
+      )}
     </header>
     {heroImage && (
       <div class="mt-8 overflow-hidden rounded-3xl">

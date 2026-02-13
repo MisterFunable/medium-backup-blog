@@ -7,6 +7,8 @@ publishedAt: "2025-12-29T18:11:37.000Z"
 readingTime: 4
 heroImage: "/medium-backup-blog/medium-assets/18/img-01.png"
 sourceUrl: "https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2 -->
 <!-- Published: 2025-12-29T14:11:37 -->

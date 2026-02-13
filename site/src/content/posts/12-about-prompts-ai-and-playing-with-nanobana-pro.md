@@ -7,6 +7,8 @@ publishedAt: "2025-11-22T02:02:16.000Z"
 readingTime: 3
 heroImage: "/medium-backup-blog/medium-assets/12/img-01.png"
 sourceUrl: "https://medium.com/@mister.funable/about-prompts-ai-and-playing-with-nanobana-pro-3737479e6f53"
+
+tags: []
 ---
 <!-- Source: https://medium.com/@mister.funable/about-prompts-ai-and-playing-with-nanobana-pro-3737479e6f53 -->
 <!-- Published: 2025-11-21T22:02:16 -->

@@ -7,6 +7,7 @@ export type PostSummary = {
   publishedAt: string;
   readingTime: number;
   sourceUrl: string;
+  tags: string[];
 };
 
 export const postsIndex: PostSummary[] = [
@@ -18,7 +19,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/01/img-01.png",
     "publishedAt": "2025-10-27T07:24:44.000Z",
     "readingTime": 2,
-    "sourceUrl": "https://medium.com/@mister.funable/running-n8n-locally-with-ngrok-734af69e1530"
+    "sourceUrl": "https://medium.com/@mister.funable/running-n8n-locally-with-ngrok-734af69e1530",
+    "tags": []
   },
   {
     "order": 2,
@@ -28,7 +30,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/02/img-01.png",
     "publishedAt": "2025-11-10T17:03:26.000Z",
     "readingTime": 2,
-    "sourceUrl": "https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2"
+    "sourceUrl": "https://medium.com/@mister.funable/how-not-to-work-with-local-files-in-n8n-8c4545a3f2b2",
+    "tags": []
   },
   {
     "order": 3,
@@ -38,7 +41,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/03/img-01.png",
     "publishedAt": "2025-11-14T21:14:19.000Z",
     "readingTime": 3,
-    "sourceUrl": "https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8"
+    "sourceUrl": "https://radiohackers.com/getting-started-with-meshtastic-on-heltec-v3-and-lilygo-t-beam-e287f44df7b8",
+    "tags": []
   },
   {
     "order": 4,
@@ -48,7 +52,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/04/img-01.png",
     "publishedAt": "2025-11-14T22:19:05.000Z",
     "readingTime": 6,
-    "sourceUrl": "https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae"
+    "sourceUrl": "https://medium.com/@mister.funable/meshtastic-questions-i-had-after-getting-started-b0a634a39bae",
+    "tags": []
   },
   {
     "order": 5,
@@ -58,7 +63,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/05/img-01.png",
     "publishedAt": "2025-11-14T23:07:25.000Z",
     "readingTime": 6,
-    "sourceUrl": "https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e"
+    "sourceUrl": "https://medium.com/@mister.funable/setting-up-a-local-meshtastic-message-forwarder-c527bca2eb0e",
+    "tags": []
   },
   {
     "order": 6,
@@ -68,7 +74,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/06/img-01.png",
     "publishedAt": "2025-11-16T04:17:55.000Z",
     "readingTime": 8,
-    "sourceUrl": "https://medium.com/@mister.funable/n8n-nodes-you-should-know-but-probably-dont-06d61b77c457"
+    "sourceUrl": "https://medium.com/@mister.funable/n8n-nodes-you-should-know-but-probably-dont-06d61b77c457",
+    "tags": []
   },
   {
     "order": 7,
@@ -78,7 +85,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/07/img-01.png",
     "publishedAt": "2025-11-17T05:53:09.000Z",
     "readingTime": 7,
-    "sourceUrl": "https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac"
+    "sourceUrl": "https://medium.com/@mister.funable/sony-a6700-settings-for-unboxing-and-figure-videos-4ca3ddd4ecac",
+    "tags": []
   },
   {
     "order": 8,
@@ -88,7 +96,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/08/img-01.png",
     "publishedAt": "2025-11-18T06:00:06.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a"
+    "sourceUrl": "https://medium.com/@mister.funable/fixing-n8n-docker-error-the-x-forwarded-for-issue-bonus-d6924694b09a",
+    "tags": []
   },
   {
     "order": 9,
@@ -98,7 +107,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/09/img-01.png",
     "publishedAt": "2025-11-18T13:03:01.000Z",
     "readingTime": 5,
-    "sourceUrl": "https://medium.com/@mister.funable/getting-instagram-posts-with-n8n-the-simple-way-part-1-c66cb5217054"
+    "sourceUrl": "https://medium.com/@mister.funable/getting-instagram-posts-with-n8n-the-simple-way-part-1-c66cb5217054",
+    "tags": []
   },
   {
     "order": 10,
@@ -108,7 +118,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/10/img-01.png",
     "publishedAt": "2025-11-20T03:02:07.000Z",
     "readingTime": 6,
-    "sourceUrl": "https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b"
+    "sourceUrl": "https://medium.com/@mister.funable/figma-body-alternatives-from-archetypes-to-art-b02c4a78390b",
+    "tags": []
   },
   {
     "order": 11,
@@ -118,7 +129,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/11/img-01.png",
     "publishedAt": "2025-11-21T07:18:40.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://medium.com/@mister.funable/how-to-publish-your-n8n-template-375832d8efd7"
+    "sourceUrl": "https://medium.com/@mister.funable/how-to-publish-your-n8n-template-375832d8efd7",
+    "tags": []
   },
   {
     "order": 12,
@@ -128,7 +140,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/12/img-01.png",
     "publishedAt": "2025-11-22T02:02:16.000Z",
     "readingTime": 3,
-    "sourceUrl": "https://medium.com/@mister.funable/about-prompts-ai-and-playing-with-nanobana-pro-3737479e6f53"
+    "sourceUrl": "https://medium.com/@mister.funable/about-prompts-ai-and-playing-with-nanobana-pro-3737479e6f53",
+    "tags": []
   },
   {
     "order": 12,
@@ -138,7 +151,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/12/img-01.png",
     "publishedAt": "2025-12-02T15:45:03.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab"
+    "sourceUrl": "https://funable.medium.com/making-a-local-web-server-with-the-dfrobot-firebeetle-2-esp32-e-platformio-0bbe6abfa8ab",
+    "tags": []
   },
   {
     "order": 13,
@@ -148,7 +162,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/13/img-01.png",
     "publishedAt": "2025-11-27T02:16:54.000Z",
     "readingTime": 2,
-    "sourceUrl": "https://medium.com/@mister.funable/my-favorite-figmas-2025-a4dd70db6be4"
+    "sourceUrl": "https://medium.com/@mister.funable/my-favorite-figmas-2025-a4dd70db6be4",
+    "tags": []
   },
   {
     "order": 13,
@@ -158,7 +173,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/13/img-01.png",
     "publishedAt": "2025-12-05T10:37:56.000Z",
     "readingTime": 3,
-    "sourceUrl": "https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05"
+    "sourceUrl": "https://funable.medium.com/part-1-designing-a-mascot-logo-my-journey-with-ai-image-generation-84c5e3921b05",
+    "tags": []
   },
   {
     "order": 14,
@@ -168,7 +184,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/14/img-01.png",
     "publishedAt": "2025-12-06T18:11:55.000Z",
     "readingTime": 5,
-    "sourceUrl": "https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172"
+    "sourceUrl": "https://funable.medium.com/backing-up-n8n-when-the-data-lives-in-a-docker-volume-62e200d79172",
+    "tags": []
   },
   {
     "order": 15,
@@ -178,7 +195,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/15/img-01.png",
     "publishedAt": "2025-12-21T22:43:52.000Z",
     "readingTime": 3,
-    "sourceUrl": "https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455"
+    "sourceUrl": "https://funable.medium.com/boardgamegeek-player-resources-aids-b0a37d238455",
+    "tags": []
   },
   {
     "order": 16,
@@ -188,7 +206,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/16/img-01.png",
     "publishedAt": "2025-12-21T22:57:54.000Z",
     "readingTime": 2,
-    "sourceUrl": "https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7"
+    "sourceUrl": "https://funable.medium.com/marvel-champions-resources-7f6cef0bffe7",
+    "tags": []
   },
   {
     "order": 17,
@@ -198,7 +217,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/17/img-01.png",
     "publishedAt": "2025-12-27T21:46:35.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160"
+    "sourceUrl": "https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160",
+    "tags": []
   },
   {
     "order": 18,
@@ -208,7 +228,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/18/img-01.png",
     "publishedAt": "2025-12-29T18:11:37.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2"
+    "sourceUrl": "https://funable.medium.com/a-silly-little-osascript-utility-that-types-notes-for-you-dc5948a523d2",
+    "tags": []
   },
   {
     "order": 19,
@@ -218,7 +239,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/19/img-01.png",
     "publishedAt": "2025-12-30T02:36:42.000Z",
     "readingTime": 2,
-    "sourceUrl": "https://funable.medium.com/how-to-design-your-medium-profile-47d93edd7e9d"
+    "sourceUrl": "https://funable.medium.com/how-to-design-your-medium-profile-47d93edd7e9d",
+    "tags": []
   },
   {
     "order": 20,
@@ -228,7 +250,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/20/img-01.png",
     "publishedAt": "2025-12-31T16:43:34.000Z",
     "readingTime": 2,
-    "sourceUrl": "https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74"
+    "sourceUrl": "https://funable.medium.com/getting-instagram-posts-with-n8n-the-simple-way-part-2-the-final-part-fdad1e999d74",
+    "tags": []
   },
   {
     "order": 21,
@@ -238,7 +261,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/21/img-01.png",
     "publishedAt": "2026-01-01T19:02:31.000Z",
     "readingTime": 3,
-    "sourceUrl": "https://funable.medium.com/adding-multiple-instagram-accounts-to-your-n8n-automation-772fd26af4a1"
+    "sourceUrl": "https://funable.medium.com/adding-multiple-instagram-accounts-to-your-n8n-automation-772fd26af4a1",
+    "tags": []
   },
   {
     "order": 22,
@@ -248,7 +272,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/22/img-01.png",
     "publishedAt": "2026-01-03T18:56:44.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://funable.medium.com/from-zero-youtube-lessons-part-0-822bb8a9c883"
+    "sourceUrl": "https://funable.medium.com/from-zero-youtube-lessons-part-0-822bb8a9c883",
+    "tags": []
   },
   {
     "order": 23,
@@ -258,7 +283,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/23/img-01.png",
     "publishedAt": "2026-01-03T23:46:43.000Z",
     "readingTime": 5,
-    "sourceUrl": "https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b"
+    "sourceUrl": "https://funable.medium.com/from-zero-youtube-lessons-part-1-efd9a93f2d1b",
+    "tags": []
   },
   {
     "order": 24,
@@ -268,7 +294,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/24/img-01.png",
     "publishedAt": "2026-01-06T00:15:20.000Z",
     "readingTime": 7,
-    "sourceUrl": "https://funable.medium.com/part-3-designing-a-mascot-logo-a-fresh-start-45f17906c0d2"
+    "sourceUrl": "https://funable.medium.com/part-3-designing-a-mascot-logo-a-fresh-start-45f17906c0d2",
+    "tags": []
   },
   {
     "order": 25,
@@ -278,7 +305,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/25/img-01.png",
     "publishedAt": "2026-01-13T03:02:51.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced"
+    "sourceUrl": "https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced",
+    "tags": []
   },
   {
     "order": 26,
@@ -288,7 +316,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/26/img-01.png",
     "publishedAt": "2026-01-17T18:48:09.000Z",
     "readingTime": 4,
-    "sourceUrl": "https://funable.medium.com/uploading-instagram-videos-to-youtube-with-n8n-6df5ad3c2523"
+    "sourceUrl": "https://funable.medium.com/uploading-instagram-videos-to-youtube-with-n8n-6df5ad3c2523",
+    "tags": []
   },
   {
     "order": 27,
@@ -298,7 +327,8 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/27/img-01.png",
     "publishedAt": "2026-01-23T04:49:49.000Z",
     "readingTime": 7,
-    "sourceUrl": "https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7"
+    "sourceUrl": "https://funable.medium.com/side-notes-1-what-yu-gi-oh-taught-me-about-leadership-cd13634fbde7",
+    "tags": []
   },
   {
     "order": 28,
@@ -308,6 +338,7 @@ export const postsIndex: PostSummary[] = [
     "heroImage": "/medium-backup-blog/medium-assets/28/img-01.png",
     "publishedAt": "2026-01-24T01:57:00.000Z",
     "readingTime": 7,
-    "sourceUrl": "https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4"
+    "sourceUrl": "https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4",
+    "tags": []
   }
 ];

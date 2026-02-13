@@ -7,6 +7,8 @@ publishedAt: "2026-01-13T03:02:51.000Z"
 readingTime: 4
 heroImage: "/medium-backup-blog/medium-assets/25/img-01.png"
 sourceUrl: "https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/why-your-ai-images-look-worse-after-each-iteration-b66abc24fced -->
 <!-- Published: 2026-01-12T23:02:51 -->

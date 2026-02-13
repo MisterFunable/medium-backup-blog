@@ -7,6 +7,8 @@ publishedAt: "2025-12-27T21:46:35.000Z"
 readingTime: 4
 heroImage: "/medium-backup-blog/medium-assets/17/img-01.png"
 sourceUrl: "https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/sony-a6700-updated-settings-for-turntables-with-a-green-background-657dcd66d160 -->
 <!-- Published: 2025-12-27T17:46:35 -->

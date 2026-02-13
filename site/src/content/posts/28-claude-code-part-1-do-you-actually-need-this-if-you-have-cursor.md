@@ -7,6 +7,8 @@ publishedAt: "2026-01-24T01:57:00.000Z"
 readingTime: 7
 heroImage: "/medium-backup-blog/medium-assets/28/img-01.png"
 sourceUrl: "https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4"
+
+tags: []
 ---
 <!-- Source: https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4 -->
 <!-- Published: 2026-01-23T21:57:00 -->
