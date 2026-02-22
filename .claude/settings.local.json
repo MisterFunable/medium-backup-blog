@@ -10,7 +10,9 @@
       "Bash(head:*)",
       "Bash(pip show:*)",
       "Bash(python3 -c \"from medium_api import Medium; import inspect; art_cls = [cls for name, cls in inspect.getmembers\\(__import__\\(''medium_api'', fromlist=[''_article'']\\), inspect.isclass\\) if ''Article'' in name.__class__.__name__ or ''article'' in name.lower\\(\\)]; print\\(art_cls\\)\")",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "WebFetch(domain:mediumapi.com)",
+      "Bash(wc:*)"
     ]
   }
 }

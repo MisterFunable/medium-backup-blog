@@ -340,5 +340,51 @@ export const postsIndex: PostSummary[] = [
     "readingTime": 7,
     "sourceUrl": "https://funable.medium.com/claude-code-part-1-do-you-actually-need-this-if-you-have-cursor-30b902668de4",
     "tags": []
+  },
+  {
+    "order": 29,
+    "permalink": "backing-up-my-medium-posts",
+    "title": "Backing Up My Medium Posts",
+    "description": "Backing Up My Medium Posts Because I Don't Trust Platforms Anymore Shout out to YouTube, for teaching me that platforms can just... decide things. TL;DR : code here. I've been writ",
+    "heroImage": "/medium-backup-blog/medium-assets/29/img-01.png",
+    "publishedAt": "2026-02-15T23:45:04.000Z",
+    "readingTime": 3,
+    "sourceUrl": "https://funable.medium.com/backing-up-my-medium-posts-4fa884d9c138",
+    "tags": [
+      "medium-api",
+      "medium-backup"
+    ]
+  },
+  {
+    "order": 30,
+    "permalink": "substack-as-a-medium-alternative",
+    "title": "Substack as a Medium Alternative",
+    "description": "Substack as a Medium Alternative Not big enough to worry about reach, but accessibility is one thing I want ](https://miro.medium.com/1 9t2HkgMtdtPR0AwhZbmeDQ.png) I had on my back",
+    "heroImage": "/medium-backup-blog/medium-assets/30/img-01.html",
+    "publishedAt": "2026-02-16T23:11:01.000Z",
+    "readingTime": 2,
+    "sourceUrl": "https://funable.medium.com/substack-as-a-medium-alternative-96480741598e",
+    "tags": [
+      "substack",
+      "substack-vs-medium",
+      "medium-api",
+      "automation"
+    ]
+  },
+  {
+    "order": 31,
+    "permalink": "n8n-instagram-backups-with-metadata-to-google-drive",
+    "title": "N8N Instagram Backups with Metadata to Google Drive",
+    "description": "N8N Instagram Backups with Metadata to Google Drive Descriptions and tags matter. I've just published a new template! I've been doubling down on Instagram since my last channel rem",
+    "heroImage": "/medium-backup-blog/medium-assets/31/img-01.png",
+    "publishedAt": "2026-02-18T00:51:01.000Z",
+    "readingTime": 2,
+    "sourceUrl": "https://funable.medium.com/n8n-instagram-backups-with-metadata-to-google-drive-f0167bf0af28",
+    "tags": [
+      "n8n",
+      "n8n-workflow",
+      "instagram-automation",
+      "instagram-backup"
+    ]
   }
 ];

@@ -1,6 +1,8 @@
 # Mister Funable Field Notes
 
-Static Astro + Tailwind site that mirrors Mister Funable’s Medium exports (markdown + images) into `site/`, then deploys to GitHub Pages. The sync pipeline guarantees local copies of every post, predictable URLs, and a posts manifest for the landing page hero/feed.
+Static Astro + Tailwind site that mirrors Mister Funable's Medium exports (markdown + images) into `site/`, then deploys to GitHub Pages. The sync pipeline guarantees local copies of every post, predictable URLs, and a posts manifest for the landing page hero/feed.
+
+**📚 [Medium API Documentation](./docs/medium-api/)** - Complete setup guide, use cases, and API reference for the Medium backup system.
 
 ## Repository Layout
 
@@ -23,8 +25,11 @@ Static Astro + Tailwind site that mirrors Mister Funable’s Medium exports (mar
 ## Prerequisites
 
 - Node.js 20.10.0 (install via `asdf install` to honor `.tool-versions`)
-- Medium exports already generated into `exports/medium_posts`
+- Python 3.8+ with `medium-api` library (`pip install medium-api`)
+- RapidAPI key for Medium API (see [Setup Guide](./docs/medium-api/setup-guide.md))
 - GitHub repository (e.g., `github.com/MisterFunable/blog`)
+
+**New to the Medium API?** Start with the [Quick Start Guide](./docs/medium-api/QUICK_START.md).
 
 ## Workflow
 
@@ -113,13 +118,21 @@ Static Astro + Tailwind site that mirrors Mister Funable’s Medium exports (mar
 
 ## Updating Content
 
-1. Run the Medium exporter if needed:
+1. Fetch new posts from Medium:
    ```bash
-   RAPIDAPI_KEY=xxx python fetch_medium_posts.py --download-images --prepend-order
+   export RAPIDAPI_KEY="your-key"
+   make fetch
+   # or: python fetch_medium_posts.py --download-images --prepend-order
    ```
-2. `cd site && npm run sync:posts`
+2. Sync to Astro:
+   ```bash
+   make sync
+   # or: cd site && npm run sync:posts
+   ```
 3. Commit the regenerated files in `site/`.
 4. Push to `main` → GitHub Actions redeploys automatically.
+
+**New tags from Medium?** Re-run `make fetch` to pull updated tags, then `make sync` to propagate them.
 
 ## Useful Commands
 
